@@ -1,0 +1,688 @@
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<language>
+		<LanguageCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#LanguageCode" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+	</language>
+	<hierarchyLevel>
+		<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</MD_ScopeCode>
+	</hierarchyLevel>
+	<contact>
+		<CI_ResponsibleParty>
+			<individualName>
+				<gco:CharacterString>Geospatial Data Manager</gco:CharacterString>
+			</individualName>
+			<organisationName>
+				<gco:CharacterString>University of Arizona Library</gco:CharacterString>
+			</organisationName>
+			<role>
+				<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+			</role>
+			<contactInfo>
+				<CI_Contact>
+					<address>
+						<CI_Address>
+							<electronicMailAddress>
+								<gco:CharacterString>LBRY-uageoportal@email.arizona.edu</gco:CharacterString>
+							</electronicMailAddress>
+						</CI_Address>
+					</address>
+				</CI_Contact>
+			</contactInfo>
+		</CI_ResponsibleParty>
+	</contact>
+	<dateStamp>
+		<gco:Date>2017-08-16T16:33:35</gco:Date>
+	</dateStamp>
+	<metadataStandardName>
+		<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+	</metadataStandardName>
+	<metadataStandardVersion>
+		<gco:CharacterString>2007</gco:CharacterString>
+	</metadataStandardVersion>
+	<spatialRepresentationInfo>
+		<MD_VectorSpatialRepresentation>
+			<geometricObjects>
+				<MD_GeometricObjects>
+					<geometricObjectType>
+						<MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+					</geometricObjectType>
+					<geometricObjectCount>
+						<gco:Integer>0</gco:Integer>
+					</geometricObjectCount>
+				</MD_GeometricObjects>
+			</geometricObjects>
+		</MD_VectorSpatialRepresentation>
+	</spatialRepresentationInfo>
+	<identificationInfo>
+		<MD_DataIdentification>
+			<citation>
+				<CI_Citation>
+					<title>
+						<gco:CharacterString>US Forest Service Roads, Arizona, 2000</gco:CharacterString>
+					</title>
+					<date>
+						<CI_Date>
+							<date>
+								<gco:Date>2003-05-05T:00:00:00</gco:Date>
+							</date>
+							<dateType>
+								<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+							</dateType>
+						</CI_Date>
+					</date>
+					<edition>
+						<gco:CharacterString>Primary</gco:CharacterString>
+					</edition>
+					<citedResponsibleParty>
+						<CI_ResponsibleParty>
+							<organisationName>
+								<gco:CharacterString>United States. Forest Service.</gco:CharacterString>
+								<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+							</organisationName>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</citedResponsibleParty>
+					<citedResponsibleParty>
+						<CI_ResponsibleParty>
+							<organisationName>
+								<gco:CharacterString>USDA Forest Service</gco:CharacterString>
+								<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+							</organisationName>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</citedResponsibleParty>
+					<presentationForm>
+						<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+					</presentationForm>
+					<otherCitationDetails>
+						<gco:CharacterString>This coverage was derived from the cartographic feature files (cff's) for the Primary Base Series 7.5 minute quadrangles provided by the USFS Geospatial Service and Technology Center (GSTC). It was augmented with GPS road data from the Forest specialists.</gco:CharacterString>
+					</otherCitationDetails>
+				</CI_Citation>
+			</citation>
+			<abstract>
+				<gco:CharacterString>This coverage depicts the road network on the Apache-Sitgreaves National Forest, Coconino National Forest, Coronado National Forest, Kaibab National Forest, Prescott National Forest, and the Tonto National Forest and is part of the USFS Southwestern Region Core Data Project. This project is designed to generate and maintain 15 vertically integrated resource data layers which are standardized across the Southwestern Region. These 15 layers are derived from a Master Arc coverage which maintains vertical integration.</gco:CharacterString>
+			</abstract>
+			<purpose>
+				<gco:CharacterString>The purpose of this coverage is to depict the road network system on the Forest. The coverage will be used to provide road network input for any analysis needing it. This datasets is made available to interested persons through the University of Arizona's instance of Open Geoportal. It has been provided to assist educators, students, researchers, and policy makers in mapping and/or analysis applications.</gco:CharacterString>
+			</purpose>
+			<status>
+				<MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+			</status>
+			<pointOfContact>
+				<CI_ResponsibleParty>
+					<organisationName>
+						<gco:CharacterString>USDA, Forest Service, Coconino National Forest</gco:CharacterString>
+					</organisationName>
+					<positionName>
+						<gco:CharacterString>Engineering Staff</gco:CharacterString>
+					</positionName>
+					<contactInfo>
+						<CI_Contact>
+							<phone>
+								<CI_Telephone>
+									<voice>
+										<gco:CharacterString>928-527-3600</gco:CharacterString>
+									</voice>
+								</CI_Telephone>
+							</phone>
+							<address>
+								<CI_Address>
+									<deliveryPoint>
+										<gco:CharacterString>2323 East Greenlaw Lane</gco:CharacterString>
+									</deliveryPoint>
+									<city>
+										<gco:CharacterString>Flagstaff</gco:CharacterString>
+									</city>
+									<administrativeArea>
+										<gco:CharacterString>AZ</gco:CharacterString>
+									</administrativeArea>
+									<postalCode>
+										<gco:CharacterString>86004-1810</gco:CharacterString>
+									</postalCode>
+									<country>
+										<Country codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CountryCode" codeListValue="US" codeSpace="ISO3166-alpha2">US</Country>
+									</country>
+								</CI_Address>
+							</address>
+							<hoursOfService>
+								<gco:CharacterString>0730 - 1630 M - F, Mountain Time</gco:CharacterString>
+							</hoursOfService>
+						</CI_Contact>
+					</contactInfo>
+					<role>
+						<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+					</role>
+				</CI_ResponsibleParty>
+			</pointOfContact>
+			<resourceMaintenance>
+				<MD_MaintenanceInformation>
+					<maintenanceAndUpdateFrequency>
+						<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</MD_MaintenanceFrequencyCode>
+					</maintenanceAndUpdateFrequency>
+				</MD_MaintenanceInformation>
+			</resourceMaintenance>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>pavement</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>route</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>transportation</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>road</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+					</type>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>State of Arizona</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>GNIS</gco:CharacterString>
+							</title>
+							<date gco:nilReason="missing"/>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>arizona</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+					</type>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<spatialRepresentationType>
+				<MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+			</spatialRepresentationType>
+			<language>
+				<LanguageCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#LanguageCode" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+			</language>
+			<topicCategory>
+				<MD_TopicCategoryCode>planningCadastre</MD_TopicCategoryCode>
+			</topicCategory>
+			<topicCategory>
+				<MD_TopicCategoryCode>transportation</MD_TopicCategoryCode>
+			</topicCategory>
+			<environmentDescription>
+				<gco:CharacterString>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</gco:CharacterString>
+			</environmentDescription>
+			<extent>
+				<EX_Extent>
+					<temporalElement>
+						<EX_TemporalExtent>
+							<extent>
+								<gml:TimePeriod>
+									<gml:beginPosition>1991-01-01T00:00:00</gml:beginPosition>
+									<gml:endPosition>2000-12-31T00:00:00</gml:endPosition>
+								</gml:TimePeriod>
+							</extent>
+						</EX_TemporalExtent>
+					</temporalElement>
+				</EX_Extent>
+			</extent>
+			<extent>
+				<EX_Extent>
+					<geographicElement>
+						<EX_GeographicBoundingBox>
+							<westBoundLongitude>
+								<gco:Decimal>-113.149499</gco:Decimal>
+							</westBoundLongitude>
+							<eastBoundLongitude>
+								<gco:Decimal>-108.655101</gco:Decimal>
+							</eastBoundLongitude>
+							<southBoundLatitude>
+								<gco:Decimal>31.23142</gco:Decimal>
+							</southBoundLatitude>
+							<northBoundLatitude>
+								<gco:Decimal>37.007607</gco:Decimal>
+							</northBoundLatitude>
+						</EX_GeographicBoundingBox>
+					</geographicElement>
+				</EX_Extent>
+			</extent>
+		</MD_DataIdentification>
+	</identificationInfo>
+	<distributionInfo>
+		<MD_Distribution>
+			<distributor>
+				<MD_Distributor>
+					<distributorContact>
+						<CI_ResponsibleParty>
+							<individualName>
+								<gco:CharacterString>Geospatial Data Manager</gco:CharacterString>
+							</individualName>
+							<organisationName>
+								<gco:CharacterString>University of Arizona Library</gco:CharacterString>
+							</organisationName>
+							<positionName>
+								<gco:CharacterString>Regional GIS Coordinator</gco:CharacterString>
+							</positionName>
+							<contactInfo>
+								<CI_Contact>
+									<phone>
+										<CI_Telephone>
+											<voice>
+												<gco:CharacterString>505-842-3292</gco:CharacterString>
+											</voice>
+										</CI_Telephone>
+									</phone>
+									<address>
+										<CI_Address>
+											<deliveryPoint>
+												<gco:CharacterString>1510 E University Blvd.</gco:CharacterString>
+											</deliveryPoint>
+											<city>
+												<gco:CharacterString>Tucson</gco:CharacterString>
+											</city>
+											<administrativeArea>
+												<gco:CharacterString>Arizona</gco:CharacterString>
+											</administrativeArea>
+											<postalCode>
+												<gco:CharacterString>85712</gco:CharacterString>
+											</postalCode>
+											<country>
+												<Country codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CountryCode" codeListValue="US" codeSpace="ISO3166-alpha2">US</Country>
+											</country>
+											<electronicMailAddress>
+												<gco:CharacterString>LBRY-uageoportal@email.arizona.edu</gco:CharacterString>
+											</electronicMailAddress>
+										</CI_Address>
+									</address>
+									<hoursOfService>
+										<gco:CharacterString>0800 - 1630 M - F, Mountain Time.</gco:CharacterString>
+									</hoursOfService>
+								</CI_Contact>
+							</contactInfo>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</distributorContact>
+					<distributionOrderProcess>
+						<MD_StandardOrderProcess/>
+					</distributionOrderProcess>
+					<distributorTransferOptions>
+						<MD_DigitalTransferOptions>
+							<onLine>
+								<CI_OnlineResource>
+									<linkage>
+										<gco:URL>http://dx.doi.org/10.2458/azu_geo_arizona_usfsroads_2000</gco:URL>
+									</linkage>
+								</CI_OnlineResource>
+							</onLine>
+						</MD_DigitalTransferOptions>
+					</distributorTransferOptions>
+					<distributorFormat>
+						<MD_Format>
+							<name>
+								<gco:CharacterString>Shapefile</gco:CharacterString>
+							</name>
+						</MD_Format>
+					</distributorFormat>
+				</MD_Distributor>
+			</distributor>
+			<transferOptions>
+				<MD_DigitalTransferOptions>
+					<!-- WARNING: no content -->
+				</MD_DigitalTransferOptions>
+			</transferOptions>
+		</MD_Distribution>
+	</distributionInfo>
+	<dataQualityInfo>
+		<DQ_DataQuality>
+			<scope>
+				<DQ_Scope>
+					<level>
+						<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+					</level>
+				</DQ_Scope>
+			</scope>
+			<report>
+				<DQ_TopologicalConsistency>
+					<evaluationMethodDescription>
+						<gco:CharacterString>Line (arc) and route topology present.</gco:CharacterString>
+					</evaluationMethodDescription>
+					<result gco:nilReason="missing"/>
+				</DQ_TopologicalConsistency>
+			</report>
+			<report>
+				<DQ_ConceptualConsistency>
+					<measureDescription>
+						<gco:CharacterString>Line (arc) and route topology present.</gco:CharacterString>
+					</measureDescription>
+				</DQ_ConceptualConsistency>
+			</report>
+			<report>
+				<DQ_CompletenessOmission>
+					<measureDescription>
+						<gco:CharacterString>Data set is complete.</gco:CharacterString>
+					</measureDescription>
+				</DQ_CompletenessOmission>
+			</report>
+			<report>
+				<DQ_QuantitativeAttributeAccuracy>
+					<measureDescription>
+						<gco:CharacterString>Accuracy and completeness was checked by manually comparing hardcopy plots, on-screen review, and reporting method with the source materials. RD_RTE_NO was populated based on information provided by the Forest Service, either in manual or digital form. An automated assurance/control application, QCView, was used to a consistent data structure and valid attribution for fields based on the "Specifications for TVA Automation Contract".</gco:CharacterString>
+					</measureDescription>
+					<result gco:nilReason="missing"/>
+				</DQ_QuantitativeAttributeAccuracy>
+			</report>
+			<report>
+				<DQ_AbsoluteExternalPositionalAccuracy>
+					<measureDescription>
+						<gco:CharacterString>The National Map Accuracy Standards for 7.5 minute 1:24000 quadrangles apply to this coverage. This is 40 feet plus or minus of their true position.</gco:CharacterString>
+					</measureDescription>
+					<result gco:nilReason="missing"/>
+				</DQ_AbsoluteExternalPositionalAccuracy>
+			</report>
+			<lineage>
+				<LI_Lineage>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>Seperate National Forest datasets merged.</gco:CharacterString>
+							</description>
+							<dateTime/>
+							<processor>
+								<CI_ResponsibleParty>
+									<organisationName>
+										<gco:CharacterString>Arizona State Cartographer's Office</gco:CharacterString>
+									</organisationName>
+									<contactInfo>
+										<CI_Contact>
+											<phone>
+												<CI_Telephone>
+													<voice>
+														<gco:CharacterString>602-542-3249</gco:CharacterString>
+													</voice>
+												</CI_Telephone>
+											</phone>
+											<address>
+												<CI_Address>
+													<deliveryPoint>
+														<gco:CharacterString>1616 West Adams Street</gco:CharacterString>
+													</deliveryPoint>
+													<city>
+														<gco:CharacterString>Phoenix</gco:CharacterString>
+													</city>
+													<administrativeArea>
+														<gco:CharacterString>Arizona</gco:CharacterString>
+													</administrativeArea>
+													<postalCode>
+														<gco:CharacterString>85007</gco:CharacterString>
+													</postalCode>
+													<country>
+														<Country codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CountryCode" codeListValue="US" codeSpace="ISO3166-alpha2">US</Country>
+													</country>
+												</CI_Address>
+											</address>
+										</CI_Contact>
+									</contactInfo>
+									<role>
+										<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="processor" codeSpace="ISOTC211/19115">processor</CI_RoleCode>
+									</role>
+								</CI_ResponsibleParty>
+							</processor>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>General: Vintage 11 CFF digital data (and in some cases, Forest-provided digital data) was used to create this coverage. When Forest-provided data was used, the CFF codes were conflated, as appropriate, to the Forest-provided data. Where new data existed, the Forest provided a CFF for those arcs. Source and method was populated for all arcs. The RD_RTE_NO was supplied by the Forest and populated on the respective arcs. The data set was checked for dangle errors. Errors were corrected and topology built for arc. A route subclass was created based on the item RD_RTE_NO. Beginning and ending points were applied to the route and directionality set. Technical: Approximately 95% of the time, the CFFs will be the basis for the road data. In some instances, the Forests may have additional information (spatial and attribute) to supplement this information. The Forest may provide additional spatial data (from manuscripted, GPS or some other digital source). The RO will allow for this additional information provided the Forest has validated the data (usually with verification from an ortho-photo) and can provide documentation to the validity (includes SOURCE_CODE and METHOD). The Forest may also provide a digital coverage from another vintage of CFF (Vx) in which they have previously updated. TVA will then preserve whatever information is to be retained from this data set (via the "Data Assessment") and transfer the attribute information ("matchcover" and "conflate") to the V11 data. If no information is to be provided from the Forest, TVA extracts the roads from the respective master quad coverage (using the standard list of applicable CFFCs from the Data Specifications) and plots the road data, by quad, color-coded by CFFC and sends to the Forest for review and edit. The Forest will then verify the CFFC is correct, annotate on the plots where it is to be changed, and assign a road number for all roads within the Forest boundary and show direction (and start/stop points) for the roads. These plots are then returned to TVA and TVA makes the edits (in an extracted coverage) based on the annotation from the Forest Service. These edits include editing or adding a CFFC (in attribute CFF1-CFF10), populates the road arcs with the Forest- provided road number (in attribute "RD_RTE_NO). Once all edits are complete, the original data is deleted from the master quad coverage and the new, edited data is put back into the master quad coverage. If information is provided by the Forest, TVA uses the Forest-provided data (breaks it down by quadrangle using the quad coverage as a clip cover) and compares that coverage, quad by quad, with the extracted V11 roads coverage. Editing, conflation, etc. is then done and TVA provides the color-coded by CFFC quadrangle plots for the Forest for review and editing. These plots are then returned to TVA and TVA makes the edits based on the annotation from the Forest Service. Once all edits are complete, the original data is deleted from the master quad coverage and the new, edited data is put back into the master quad coverage. At this point the road data is complete. When the output coverage is produced in the final processing phase, a "route" will be created ("Arcroute" based on item "RD_RTE_NO") for all numbered roads and directionality applied to those routes.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2002-12-12T00:00:00</gco:DateTime>
+							</dateTime>
+							<processor>
+								<CI_ResponsibleParty>
+									<organisationName>
+										<gco:CharacterString>Tennessee Valley Authority</gco:CharacterString>
+									</organisationName>
+									<positionName>
+										<gco:CharacterString>Geographic Inforrmation and Engineering/USDA Project Team Leader</gco:CharacterString>
+									</positionName>
+									<contactInfo>
+										<CI_Contact>
+											<phone>
+												<CI_Telephone>
+													<voice>
+														<gco:CharacterString>865-632-1562</gco:CharacterString>
+													</voice>
+												</CI_Telephone>
+											</phone>
+											<address>
+												<CI_Address>
+													<deliveryPoint>
+														<gco:CharacterString>PO Box 1589, 17 Ridgeway Road</gco:CharacterString>
+													</deliveryPoint>
+													<city>
+														<gco:CharacterString>Norris</gco:CharacterString>
+													</city>
+													<administrativeArea>
+														<gco:CharacterString>TN</gco:CharacterString>
+													</administrativeArea>
+													<postalCode>
+														<gco:CharacterString>37828</gco:CharacterString>
+													</postalCode>
+													<country>
+														<Country codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CountryCode" codeListValue="US" codeSpace="ISO3166-alpha2">US</Country>
+													</country>
+												</CI_Address>
+											</address>
+											<hoursOfService>
+												<gco:CharacterString>0800 - 1645 M - F, Eastern Time</gco:CharacterString>
+											</hoursOfService>
+										</CI_Contact>
+									</contactInfo>
+									<role>
+										<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="processor" codeSpace="ISOTC211/19115">processor</CI_RoleCode>
+									</role>
+								</CI_ResponsibleParty>
+							</processor>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>Dataset renamed from USFS Roads.shp to Arizona_USFSRoads_2000.shp by Ben Hickson with the University of Arizona Library. Metadata fields corresponding the Open Geoportal Working Group Best Practices Guide (http://opengeoportal.org/working-groups/metadata/) were also updated.</gco:CharacterString>
+							</description>
+							<dateTime/>
+						</LI_ProcessStep>
+					</processStep>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>GPS road alignments</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>24000</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Coconino N.F. Road Network</gco:CharacterString>
+									</title>
+									<alternateTitle>
+										<gco:CharacterString>Unknown</gco:CharacterString>
+									</alternateTitle>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>2003-05-05</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<edition>
+										<gco:CharacterString>Primary</gco:CharacterString>
+									</edition>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Coconino National Forest</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>USDA Forest Service, Coconino National Forest</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+									<presentationForm>
+										<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapHardcopy" codeSpace="ISOTC211/19115">mapHardcopy</CI_PresentationFormCode>
+									</presentationForm>
+									<otherCitationDetails>
+										<gco:CharacterString>The data was manuscripted on frosted mylar at 1:24,000 scale from district &amp; forest records. The manuscripts were scanned &amp; converted to MOSS and then converted to ArcInfo.</gco:CharacterString>
+									</otherCitationDetails>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>Most current data available during the stated time period.</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent/>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>CFF road alignments</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>24000</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Cartographic Feature File (CFF)</gco:CharacterString>
+									</title>
+									<alternateTitle>
+										<gco:CharacterString>None</gco:CharacterString>
+									</alternateTitle>
+									<date>
+										<CI_Date>
+											<date/>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<edition>
+										<gco:CharacterString>Vintage 11</gco:CharacterString>
+									</edition>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>USDA Forest Service, Geospatial Service and Technology Center (GSTC)</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>USDA Forest Service, Geospatial Service and Technology Center (GSTC)</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+									<presentationForm>
+										<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapHardcopy" codeSpace="ISOTC211/19115">mapHardcopy</CI_PresentationFormCode>
+									</presentationForm>
+									<otherCitationDetails>
+										<gco:CharacterString>Cartographic Feature Files (CFFs) are digital files containing a vector representation of the point and line features shown on a Forest Service Primary Base Series (PBS) map. CFF data are collected by digitizing PBS maps and revised using correction guide information provided by field units. GSTC began producing Vintage 11 CFFs in 1996.</gco:CharacterString>
+									</otherCitationDetails>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>Time period CFF files received from GSTC.</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent/>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+				</LI_Lineage>
+			</lineage>
+		</DQ_DataQuality>
+	</dataQualityInfo>
+	<referenceSystemInfo>
+		<MD_ReferenceSystem>
+			<referenceSystemIdentifier>
+				<RS_Identifier>
+					<code>
+						<gco:CharacterString>NAD83 / UTM zone 12N (EPSG:26912)</gco:CharacterString>
+					</code>
+					<codeSpace>
+						<gco:CharacterString>EPSG</gco:CharacterString>
+					</codeSpace>
+					<version>
+						<gco:CharacterString>7.9</gco:CharacterString>
+					</version>
+				</RS_Identifier>
+			</referenceSystemIdentifier>
+		</MD_ReferenceSystem>
+	</referenceSystemInfo>
+	<dataSetURI>
+		<gco:CharacterString>http://dx.doi.org/10.2458/azu_geo_arizona_usfsroads_2000</gco:CharacterString>
+	</dataSetURI>
+</MD_Metadata>

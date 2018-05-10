@@ -1,0 +1,2317 @@
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<language>
+		<LanguageCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#LanguageCode" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+	</language>
+	<hierarchyLevel>
+		<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</MD_ScopeCode>
+	</hierarchyLevel>
+	<contact>
+		<CI_ResponsibleParty>
+			<individualName>
+				<gco:CharacterString>Geospatial Data Manager</gco:CharacterString>
+			</individualName>
+			<organisationName>
+				<gco:CharacterString>University of Arizona Library</gco:CharacterString>
+			</organisationName>
+			<role>
+				<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+			</role>
+			<contactInfo>
+				<CI_Contact>
+					<address>
+						<CI_Address>
+							<electronicMailAddress>
+								<gco:CharacterString>LBRY-uageoportal@email.arizona.edu</gco:CharacterString>
+							</electronicMailAddress>
+						</CI_Address>
+					</address>
+				</CI_Contact>
+			</contactInfo>
+		</CI_ResponsibleParty>
+	</contact>
+	<dateStamp>
+		<gco:Date>2017-08-16T16:31:05</gco:Date>
+	</dateStamp>
+	<metadataStandardName>
+		<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+	</metadataStandardName>
+	<metadataStandardVersion>
+		<gco:CharacterString>2007</gco:CharacterString>
+	</metadataStandardVersion>
+	<spatialRepresentationInfo>
+		<MD_VectorSpatialRepresentation>
+			<geometricObjects>
+				<MD_GeometricObjects>
+					<geometricObjectType>
+						<MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="complex" codeSpace="ISOTC211/19115">complex</MD_GeometricObjectTypeCode>
+					</geometricObjectType>
+				</MD_GeometricObjects>
+			</geometricObjects>
+			<geometricObjects>
+				<MD_GeometricObjects>
+					<geometricObjectCount>
+						<gco:Integer>74</gco:Integer>
+					</geometricObjectCount>
+				</MD_GeometricObjects>
+			</geometricObjects>
+		</MD_VectorSpatialRepresentation>
+	</spatialRepresentationInfo>
+	<identificationInfo>
+		<MD_DataIdentification>
+			<citation>
+				<CI_Citation>
+					<title>
+						<gco:CharacterString>Census Places, Arizona, 1960</gco:CharacterString>
+					</title>
+					<date>
+						<CI_Date>
+							<date>
+								<gco:Date>2007-01-01T:00:00:00</gco:Date>
+							</date>
+							<dateType>
+								<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+							</dateType>
+						</CI_Date>
+					</date>
+					<citedResponsibleParty>
+						<CI_ResponsibleParty>
+							<organisationName>
+								<gco:CharacterString>University of Arizona. Library</gco:CharacterString>
+								<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+							</organisationName>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</citedResponsibleParty>
+					<citedResponsibleParty>
+						<CI_ResponsibleParty>
+							<organisationName>
+								<gco:CharacterString>University of Arizona</gco:CharacterString>
+								<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+							</organisationName>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</citedResponsibleParty>
+					<presentationForm>
+						<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+					</presentationForm>
+				</CI_Citation>
+			</citation>
+			<abstract>
+				<gco:CharacterString>Statewide coverage of 1960 Places based on population data available from the U.S. Bureau of the Census. Population data is from the Eighteenth Decennial Census of the United States (1960 Census of Population)</gco:CharacterString>
+			</abstract>
+			<purpose>
+				<gco:CharacterString>To use in GIS systems for historical study and analysis This datasets is made available to interested persons through the University of Arizona's instance of Open Geoportal. It has been provided to assist educators, students, researchers, and policy makers in mapping and/or analysis applications.</gco:CharacterString>
+			</purpose>
+			<credit>
+				<gco:CharacterString>Chris Kollen, University of Arizona Library</gco:CharacterString>
+			</credit>
+			<status>
+				<MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+			</status>
+			<pointOfContact>
+				<CI_ResponsibleParty>
+					<individualName>
+						<gco:CharacterString>Chris Kollen</gco:CharacterString>
+					</individualName>
+					<organisationName>
+						<gco:CharacterString>University of Arizona Library</gco:CharacterString>
+					</organisationName>
+					<positionName>
+						<gco:CharacterString>Data Curation Librarian</gco:CharacterString>
+					</positionName>
+					<contactInfo>
+						<CI_Contact>
+							<phone>
+								<CI_Telephone>
+									<voice>
+										<gco:CharacterString>(520) 305-0495</gco:CharacterString>
+									</voice>
+									<facsimile>
+										<gco:CharacterString/>
+									</facsimile>
+								</CI_Telephone>
+							</phone>
+							<address>
+								<CI_Address>
+									<deliveryPoint>
+										<gco:CharacterString>P.O. Box 210055</gco:CharacterString>
+									</deliveryPoint>
+									<city>
+										<gco:CharacterString>Tucson</gco:CharacterString>
+									</city>
+									<administrativeArea>
+										<gco:CharacterString>AZ</gco:CharacterString>
+									</administrativeArea>
+									<postalCode>
+										<gco:CharacterString>85721-0055</gco:CharacterString>
+									</postalCode>
+									<country>
+										<gco:CharacterString>U.S.</gco:CharacterString>
+									</country>
+									<electronicMailAddress>
+										<gco:CharacterString>kollen@email.arizona.edu</gco:CharacterString>
+									</electronicMailAddress>
+								</CI_Address>
+							</address>
+						</CI_Contact>
+					</contactInfo>
+					<role>
+						<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+					</role>
+				</CI_ResponsibleParty>
+			</pointOfContact>
+			<resourceMaintenance>
+				<MD_MaintenanceInformation>
+					<maintenanceAndUpdateFrequency>
+						<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</MD_MaintenanceFrequencyCode>
+					</maintenanceAndUpdateFrequency>
+				</MD_MaintenanceInformation>
+			</resourceMaintenance>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>Population</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>Census, Places</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>REQUIRED: Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.</gco:CharacterString>
+							</title>
+							<date gco:nilReason="missing"/>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>Arizona</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+					</type>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>State of Arizona</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>GNIS</gco:CharacterString>
+							</title>
+							<date gco:nilReason="missing"/>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>1960</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="temporal" codeSpace="ISOTC211/19115">temporal</MD_KeywordTypeCode>
+					</type>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<spatialRepresentationType>
+				<MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+			</spatialRepresentationType>
+			<language>
+				<LanguageCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#LanguageCode" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+			</language>
+			<topicCategory>
+				<MD_TopicCategoryCode>planningCadastre</MD_TopicCategoryCode>
+			</topicCategory>
+			<topicCategory>
+				<MD_TopicCategoryCode>society</MD_TopicCategoryCode>
+			</topicCategory>
+			<topicCategory>
+				<MD_TopicCategoryCode>boundaries</MD_TopicCategoryCode>
+			</topicCategory>
+			<environmentDescription>
+				<gco:CharacterString>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</gco:CharacterString>
+			</environmentDescription>
+			<extent>
+				<EX_Extent>
+					<geographicElement>
+						<EX_GeographicBoundingBox>
+							<westBoundLongitude>
+								<gco:Decimal>-114.918368</gco:Decimal>
+							</westBoundLongitude>
+							<eastBoundLongitude>
+								<gco:Decimal>-108.993507</gco:Decimal>
+							</eastBoundLongitude>
+							<southBoundLatitude>
+								<gco:Decimal>31.280665</gco:Decimal>
+							</southBoundLatitude>
+							<northBoundLatitude>
+								<gco:Decimal>36.957158</gco:Decimal>
+							</northBoundLatitude>
+						</EX_GeographicBoundingBox>
+					</geographicElement>
+				</EX_Extent>
+			</extent>
+			<extent>
+				<EX_Extent>
+					<temporalElement>
+						<EX_TemporalExtent>
+							<extent>
+								<gml:TimePeriod>
+									<gml:beginPosition>1960-01-01T00:00:00</gml:beginPosition>
+									<gml:endPosition>1960-12-31T00:00:00</gml:endPosition>
+								</gml:TimePeriod>
+							</extent>
+						</EX_TemporalExtent>
+					</temporalElement>
+				</EX_Extent>
+			</extent>
+		</MD_DataIdentification>
+	</identificationInfo>
+	<distributionInfo>
+		<MD_Distribution>
+			<distributor>
+				<MD_Distributor>
+					<distributorContact>
+						<CI_ResponsibleParty>
+							<individualName>
+								<gco:CharacterString>Geospatial Data Manager</gco:CharacterString>
+							</individualName>
+							<organisationName>
+								<gco:CharacterString>University of Arizona Library</gco:CharacterString>
+							</organisationName>
+							<contactInfo>
+								<CI_Contact>
+									<address>
+										<CI_Address>
+											<deliveryPoint>
+												<gco:CharacterString>1510 E University Blvd.</gco:CharacterString>
+											</deliveryPoint>
+											<city>
+												<gco:CharacterString>Tucson</gco:CharacterString>
+											</city>
+											<administrativeArea>
+												<gco:CharacterString>Arizona</gco:CharacterString>
+											</administrativeArea>
+											<postalCode>
+												<gco:CharacterString>85712</gco:CharacterString>
+											</postalCode>
+											<country>
+												<Country codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CountryCode" codeListValue="US" codeSpace="ISO3166-alpha2">US</Country>
+											</country>
+											<electronicMailAddress>
+												<gco:CharacterString>LBRY-uageoportal@email.arizona.edu</gco:CharacterString>
+											</electronicMailAddress>
+										</CI_Address>
+									</address>
+								</CI_Contact>
+							</contactInfo>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</distributorContact>
+					<distributionOrderProcess>
+						<MD_StandardOrderProcess/>
+					</distributionOrderProcess>
+					<distributorFormat>
+						<MD_Format>
+							<name>
+								<gco:CharacterString>Shapefile</gco:CharacterString>
+							</name>
+							<version>
+								<gco:CharacterString>unknown</gco:CharacterString>
+							</version>
+						</MD_Format>
+					</distributorFormat>
+					<distributorTransferOptions>
+						<MD_DigitalTransferOptions>
+							<onLine>
+								<CI_OnlineResource>
+									<linkage>
+										<gco:URL>http://dx.doi.org/10.2458/azu_geo_arizona_censusplaces_1960</gco:URL>
+									</linkage>
+								</CI_OnlineResource>
+							</onLine>
+						</MD_DigitalTransferOptions>
+					</distributorTransferOptions>
+				</MD_Distributor>
+			</distributor>
+			<transferOptions>
+				<MD_DigitalTransferOptions>
+					<!-- WARNING: no content -->
+				</MD_DigitalTransferOptions>
+			</transferOptions>
+		</MD_Distribution>
+	</distributionInfo>
+	<dataQualityInfo>
+		<DQ_DataQuality>
+			<scope>
+				<DQ_Scope>
+					<level>
+						<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+					</level>
+				</DQ_Scope>
+			</scope>
+			<report>
+				<DQ_AbsoluteExternalPositionalAccuracy>
+					<measureDescription>
+						<gco:CharacterString>Digitized city boundaries from the following maps: Avondale, Buckeye, Chandler, El Mirage, Gila Bend, Gilbert, Glendale, Goodyear, Mesa, Peoria, Phoenix, Scottsdale, Tempe, Tolleson, and Wickenburg used Maricopa County Annexation File; Benson used Benson 15' topographic quadrangle, 1958; Bisbee used Street map of the Bisbee area, Bisbee, Arizona, Arizona's copper capital, 1960; Casa Grande used General map: City of Casa Grande, 1963; Clarkdale used Map of Area for Annexation to townsite of Clarkdale Yavapai County, Arizona, 1960; Clifton used Map of Greenlee County, 1916 (no changes until 1970); Coolidge, Eloy, and Florence used Street map of... Florence, Coolidge, Eloy, and romantic Pinal County, 1959; Douglas used City of Douglas, 1962; Duncan used Atlas of Greenlee County, 1965; Flagstaff used City of Flagstaff, a planning and zoning map for annexation; Globe and Winkleman used Atlas of Gila County, 1961; Hayden used Official map of Hayden Town, 1964; Holbrook used Holbrook, Arizona 196-; Huachuca City used Atlas of Cochise County, 1966; Kearny used Kearny 7.5' topographic quadrangle, 1964; Kingman used Map of city of Kingman, 196-; Mammoth used Atlas of Pinal County, 1964; Miami used Street Map of the Town of Miami, 1958; Nogales and Patagonia used Atlas of Santa Cruz County, 1961; Parker used Plot of the Townsite of Parker, 1956; Pima used Thatcher 15' topographic quadrangle, 1960; Prescott used City of Prescott Annexation History, 2007; Safford used City of Safford. 1964; Sierra Vista used Base map for planning Sierra Vista planning area, 1963; Snowflake used Street map of Snowflake, 196-; Somerton used City of Somerton Annexation map; South Tucson and Tucson used Tucson Annexation Boundary File; Thatcher used Thatcher, Arizona, Graham Co. Water distribution system with minimum improvements, 1958; West Yuma used Arizona minor civil divisions--supervisorial districts, 1950; Willcox used Willcox, 1956; Williams used Map of city of Williams, Arizona, compiled from plats, records, and original surveys, 1959; Winslow used Map of the City of Winslow, 1961; and Yuma used City of Yuma Annexation map. For remaining places, used Geographic Names Information System database for point data. Created a 200 meter buffer around all point data in order to convert into polygons.</gco:CharacterString>
+					</measureDescription>
+					<result>
+						<DQ_QuantitativeResult>
+							<valueUnit gco:nilReason="missing"/>
+							<value>
+								<gco:Record>Accuracy ranges from ~10 meters (Scale 1:1,008) to ~75 meters (Scale 1:63,360)</gco:Record>
+							</value>
+						</DQ_QuantitativeResult>
+					</result>
+				</DQ_AbsoluteExternalPositionalAccuracy>
+			</report>
+			<lineage>
+				<LI_Lineage>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>Dataset renamed from 1960_Cities.shp to Arizona_CensusPlaces_1960.shp by Ben Hickson with the University of Arizona Library. Metadata fields corresponding the Open Geoportal Working Group Best Practices Guide (http://opengeoportal.org/working-groups/metadata/) were also updated.</gco:CharacterString>
+							</description>
+							<dateTime/>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>Dataset renamed from 1960_Cities.shp to Arizona_CensusPlaces_1960.shp by Ben Hickson with the University of Arizona Library. Metadata fields corresponding the Open Geoportal Working Group Best Practices Guide (http://opengeoportal.org/working-groups/metadata/) were also updated.</gco:CharacterString>
+							</description>
+							<dateTime/>
+						</LI_ProcessStep>
+					</processStep>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>0</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Geographic Names Information System</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>2007-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_c652b2f67499b14c525eef33c40936">
+													<gml:timePosition>2007-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>City of Flagstaff</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>24</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>City of Flagstaff, a planning and zoning map for annexation</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1984-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>City of Flagstaff</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_f4e5254cfbacd0fb56c11b17ca19a5f">
+													<gml:timePosition>1984-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>George G. Curry</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>4.8</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Map of city of Williams, Arizona, compiled from plats, records, and original surveys</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1959-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>George G. Curry</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_c597b4122808ac93bd6e8d40c2463ff3">
+													<gml:timePosition>1959-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>United State. Bureau of the Census</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>760.32</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Arizona minor civil divisions--supervisorial districts.</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1961-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>United State. Bureau of the Census</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_6ab947b2779e6e9f5537c9e08e6cf401">
+													<gml:timePosition>1961-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>9.6</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Street map of Snowflake</gco:CharacterString>
+									</title>
+									<date gco:nilReason="missing"/>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent/>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Sierra Vista Planning and Zoning Commission</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>7.2</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Base map for planning Sierra Vista planning area</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1963-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Sierra Vista Planning and Zoning Commission</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_325155689d3760dd9761b09c3865ea9e">
+													<gml:timePosition>1963-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>James H. Howard and Associates</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>12</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Map of Area for Annexation to townsite of Clarkdale Yavapai County, Arizona</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1960-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>James H. Howard and Associates</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_ae53d5bff88b7fcdfb1b0353358d73cc">
+													<gml:timePosition>1960-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>24</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Kearny 7.5' topographic quadrangles</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1964-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_703fcb0b88f0d533a8cc9a20b031b7c9">
+													<gml:timePosition>1964-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Parker, Arizona Common Council</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>3</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Plot of the Townsite of Parker.</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1956-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Parker, Arizona Common Council</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_d0d276889c754b658e579b0ca46c462d">
+													<gml:timePosition>1956-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>J.T. Jordan</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>12</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Map of the city of Kingman</gco:CharacterString>
+									</title>
+									<date gco:nilReason="missing"/>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>J.T. Jordan</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent/>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Arizona Highway Dept. Photogrammetry and Mapping Division</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>24</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Atlas of Pinal County</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1964-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Arizona Highway Dept. Photogrammetry and Mapping Division</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_32f3fdb73f996bee2d7a28813e19b359">
+													<gml:timePosition>1964-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Dept. of Community Development, GIS Work Group</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>22.28</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>City of Yuma Annexation Map</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>2006-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Dept. of Community Development, GIS Work Group</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_41d7abdc99d7bd8839d4866bb767eac">
+													<gml:timePosition>2006-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Headman, Ferguson &amp; Carollo engineers</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>4.8</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Thatcher, Arizona, Graham Co. Water distribution system with minimum improvements</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1958-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Headman, Ferguson &amp; Carollo engineers</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_50eb437c53a3e71aa81ada95e321b0b">
+													<gml:timePosition>1958-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>62.5</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Benson 15' topographic quadrangle</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1958-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_a53c9a484f4fb3c2f4daf3bba3e9c926">
+													<gml:timePosition>1958-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>First National Bank of Arizona</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>21.12</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Street map of the Bisbee area, Bisbee, Arizona, Arizona's copper capital</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1960-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>First National Bank of Arizona</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_7c1c6f09718ce78717eb00b315cde537">
+													<gml:timePosition>1960-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Arizona. Highway Dept. Photogrammetry and Mapping Division.</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>12</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Atlas of Greenlee County</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1965-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Arizona. Highway Dept. Photogrammetry and Mapping Division.</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_4f050f95c5cc3b59414128f0de7103b2">
+													<gml:timePosition>1965-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Community Development Dept.</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>33.792</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>City of Somerton Annexation Map</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>2006-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Community Development Dept.</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_f9d6d07b6a69994e1ad495ad6a9fe1fa">
+													<gml:timePosition>2006-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Safford Arizona City Engineer</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>4.8</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>City of Safford</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1964-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Safford Arizona City Engineer</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_9feef7330ad192c8e8060da42716a5e">
+													<gml:timePosition>1964-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>City of Prescott</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>21.12</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>City of Prescott Annexation History</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>2007-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>City of Prescott</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_6806a63032fc2721c89777c8d8b8c6">
+													<gml:timePosition>2007-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>62.5</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Thatcher, 15' topographic quadrangle</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1960-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_6a7a6ac6d1095e7e448f83ff743dd451">
+													<gml:timePosition>1960-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Arizona. Highway Dept. Photogrammetry and Mapping Division</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>37.547</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Atlas of Santa Cruz County.</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1961-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Arizona. Highway Dept. Photogrammetry and Mapping Division</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_af66bce11ee5f471fe03eee7eccc9a28">
+													<gml:timePosition>1961-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Blair Engineering</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>2.4</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Street Map of the Town of Miami.</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1958-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Blair Engineering</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_a23e29ac6b4c69925ffb3c611ae7d1">
+													<gml:timePosition>1958-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>W.E. Wood</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>4.8</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>City of Douglas, Arizona.</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1962-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>W.E. Wood</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_b79ef3d241ee8c881ebae1ca626e0d5d">
+													<gml:timePosition>1962-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Don Tracy</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>0</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Street map of... Florence, Coolidge, Eloy, and romantic Pinal County</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1959-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Don Tracy</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_8f4b1296724c7fa754ddbfbb17ccfc62">
+													<gml:timePosition>1959-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Maricopa County Flood Control</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>0</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Maricopa County Annexation File</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>2000-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Maricopa County Flood Control</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_f0ef28ff8d3d49b3b34c91fe7d278783">
+													<gml:timePosition>2000-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Office of County Engineer</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>63.36</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Map of Greenlee County.</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1916-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Office of County Engineer</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_8de83ee12189962a262b4996c11f5140">
+													<gml:timePosition>1916-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Pinal County Planning and Zoning Commission</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>1.008</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>General map: City of Casa Grande</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1963-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Pinal County Planning and Zoning Commission</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_d0d5f60233713e95b5ce46572c4d68da">
+													<gml:timePosition>1963-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>4.8</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Official map of Hayden Town</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1964-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_45c15c78f2971933fe041c80a992a17d">
+													<gml:timePosition>1964-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Navajo County Assessors Office</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>12</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Holbrook, Arizona.</gco:CharacterString>
+									</title>
+									<date gco:nilReason="missing"/>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Navajo County Assessors Office</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent/>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Arizona Highway Dept. Photogrammetry and Mapping Division</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>37.547</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Atlas of Gila County</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1961-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Arizona Highway Dept. Photogrammetry and Mapping Division</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_538cfe981d4143ba3938089f5a657d7f">
+													<gml:timePosition>1961-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>9.6</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Map of the City of Winslow</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1961-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_92476b3d31fdc2e3b8f738bddf7a170b">
+													<gml:timePosition>1961-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Pima County Dept. of Transportation</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>0</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Tucson Annexation Boundary file</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>2007-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Pima County Dept. of Transportation</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_a19d7fc35bfe61a6cac171dc22efce25">
+													<gml:timePosition>2007-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>John C. Chapman</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>2.4</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Map of Willcox, Cochise County, Arizona</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1956-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>John C. Chapman</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_47ec5954e4aea751c28760ea5721f46f">
+													<gml:timePosition>1956-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>Arizona Highway Dept. Photogrammetry and Mapping Division</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>24</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>Atlas of Cochise County.</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1966-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>Arizona Highway Dept. Photogrammetry and Mapping Division</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_c0a266b9a1dc30296880310ec5720e1e">
+													<gml:timePosition>1966-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+				</LI_Lineage>
+			</lineage>
+		</DQ_DataQuality>
+	</dataQualityInfo>
+	<referenceSystemInfo>
+		<MD_ReferenceSystem>
+			<referenceSystemIdentifier>
+				<RS_Identifier>
+					<code>
+						<gco:CharacterString>NAD83 / UTM zone 12N (EPSG:26912)</gco:CharacterString>
+					</code>
+					<codeSpace>
+						<gco:CharacterString>EPSG</gco:CharacterString>
+					</codeSpace>
+					<version>
+						<gco:CharacterString>7.9</gco:CharacterString>
+					</version>
+				</RS_Identifier>
+			</referenceSystemIdentifier>
+		</MD_ReferenceSystem>
+	</referenceSystemInfo>
+	<dataSetURI>
+		<gco:CharacterString>http://dx.doi.org/10.2458/azu_geo_arizona_censusplaces_1960</gco:CharacterString>
+	</dataSetURI>
+</MD_Metadata>

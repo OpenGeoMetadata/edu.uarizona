@@ -1,0 +1,37 @@
+{
+    "layer_slug_s": "uarizona-az-ca-nv-rcrissites-1998",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_az-ca-nv_rcrissites_1998",
+    "dc_title_s": "EPA RCRIS Sites, AZ, CA, NV, 1998",
+    "dc_description_s": "Whenever appropriate, portions of this metadata were directly taken from the metadata of the original data set. RCRIS (Hazardous Waste - Violations and Permits Database) is a national computerized management information system in support of the Resource Conservation and Recovery Act (RCRA). RCRA requires that generators, transporters, treaters, storers, and disposers of hazardous waste provide information concerning their activities to state environmental agencies. For distribution with BASINS v.2.0, the spatial attributes of the database were prepared in Arcview shape file format while selected relational attributes were prepared in Arcview DBF file format.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/5St/at1/cI/lm/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:AZ-CA-NV_RCRISsites_1998",
+    "dct_isPartOf_sm": [
+        "General"
+    ],
+    "layer_geom_type_s": "Point",
+    "layer_modified_dt": "2017-08-16T16:33:53Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "U.S. Environmental Protection Agency",
+    "dc_creator_sm": "United States. Environmental Protection Agency.",
+    "dc_subject_sm": [
+        "Hazardous and Solid Wastes",
+        "RCRIS Sites",
+        "Location",
+        "Health",
+        "Environment"
+    ],
+    "dct_issued_s": "1998-08-01T:00:00:00",
+    "dct_temporal_sm": "1983",
+    "dct_spatial_sm": [
+        "State of California",
+        "State of Arizona",
+        "State of Nevada"
+    ],
+    "solr_geom": "ENVELOPE(-124.656025, -107.584391, 43.200094, 30.802282)",
+    "solr_year_i": "1983",
+    "geoblacklight_version": "1.0"
+}

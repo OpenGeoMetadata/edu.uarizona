@@ -1,0 +1,36 @@
+{
+    "layer_slug_s": "uarizona-arizona-censusplaces-1960",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_arizona_censusplaces_1960",
+    "dc_title_s": "Census Places, Arizona, 1960",
+    "dc_description_s": "Statewide coverage of 1960 Places based on population data available from the U.S. Bureau of the Census. Population data is from the Eighteenth Decennial Census of the United States (1960 Census of Population)",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/aeg/EBw/Da/bD/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:Arizona_CensusPlaces_1960",
+    "dct_isPartOf_sm": [
+        "Arizona Census Places"
+    ],
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2017-08-16T16:31:05Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "University of Arizona",
+    "dc_creator_sm": "University of Arizona. Library",
+    "dc_subject_sm": [
+        "Census, Places",
+        "Population",
+        "Planning Cadastre",
+        "Society",
+        "Boundaries"
+    ],
+    "dct_issued_s": "2007-01-01T:00:00:00",
+    "dct_temporal_sm": "1960",
+    "dct_spatial_sm": [
+        "State of Arizona",
+        "Arizona"
+    ],
+    "solr_geom": "ENVELOPE(-114.918368, -108.993507, 36.957158, 31.280665)",
+    "solr_year_i": "1960",
+    "geoblacklight_version": "1.0"
+}

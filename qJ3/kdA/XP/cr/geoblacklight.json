@@ -1,0 +1,43 @@
+{
+    "layer_slug_s": "uarizona-arizona-amas-inas-2002",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_arizona_amas_inas_2002",
+    "dc_title_s": "Active Management and Irrigated Nonexpansion Areas, Arizona, 2002",
+    "dc_description_s": "The dataset depicts both active management areas (AMAs) and Irrigated Nonexpansion Areas (INAs) in Arizona.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/qJ3/kdA/XP/cr/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:Arizona_AMAs_INAs_2002",
+    "dct_isPartOf_sm": [
+        "General"
+    ],
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2017-08-16T16:29:48Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "Arizona Department of Water Resources",
+    "dc_creator_sm": "Arizona. Department of Water Resources",
+    "dc_subject_sm": [
+        "Active Management Areas",
+        "Farming",
+        "Environment",
+        "Planning Cadastre",
+        "utilitiesCommunication"
+    ],
+    "dct_issued_s": "2002-01-01T:00:00:00",
+    "dct_temporal_sm": "2002",
+    "dct_spatial_sm": [
+        "State of Arizona",
+        "Santa Cruz",
+        "Douglas",
+        "Joseph City",
+        "Phoenix",
+        "Tucson",
+        "Harquahala Plain",
+        "Pinal",
+        "Prescott"
+    ],
+    "solr_geom": "ENVELOPE(-113.682065, -109.43014, 34.998174, 31.306492)",
+    "solr_year_i": "2002",
+    "geoblacklight_version": "1.0"
+}

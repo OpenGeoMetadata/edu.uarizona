@@ -1,0 +1,595 @@
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<language>
+		<LanguageCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#LanguageCode" codeListValue="eng">eng</LanguageCode>
+	</language>
+	<hierarchyLevel>
+		<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</MD_ScopeCode>
+	</hierarchyLevel>
+	<contact>
+		<CI_ResponsibleParty>
+			<individualName>
+				<gco:CharacterString>Geospatial Data Manager</gco:CharacterString>
+			</individualName>
+			<organisationName>
+				<gco:CharacterString>University of Arizona Library</gco:CharacterString>
+			</organisationName>
+			<role>
+				<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+			</role>
+			<contactInfo>
+				<CI_Contact>
+					<address>
+						<CI_Address>
+							<electronicMailAddress>
+								<gco:CharacterString>LBRY-uageoportal@email.arizona.edu</gco:CharacterString>
+							</electronicMailAddress>
+						</CI_Address>
+					</address>
+				</CI_Contact>
+			</contactInfo>
+		</CI_ResponsibleParty>
+	</contact>
+	<dateStamp>
+		<gco:Date>2017-08-16T16:32:09</gco:Date>
+	</dateStamp>
+	<metadataStandardName>
+		<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+	</metadataStandardName>
+	<metadataStandardVersion>
+		<gco:CharacterString>2007</gco:CharacterString>
+	</metadataStandardVersion>
+	<spatialRepresentationInfo>
+		<MD_VectorSpatialRepresentation>
+			<geometricObjects>
+				<MD_GeometricObjects>
+					<geometricObjectCount>
+						<gco:Integer>348</gco:Integer>
+					</geometricObjectCount>
+				</MD_GeometricObjects>
+			</geometricObjects>
+			<geometricObjects>
+				<MD_GeometricObjects>
+					<geometricObjectType>
+						<MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="complex" codeSpace="ISOTC211/19115">complex</MD_GeometricObjectTypeCode>
+					</geometricObjectType>
+				</MD_GeometricObjects>
+			</geometricObjects>
+		</MD_VectorSpatialRepresentation>
+	</spatialRepresentationInfo>
+	<identificationInfo>
+		<MD_DataIdentification>
+			<citation>
+				<CI_Citation>
+					<title>
+						<gco:CharacterString>Level IV Ecoregions, Arizona, 2013</gco:CharacterString>
+					</title>
+					<date>
+						<CI_Date>
+							<date>
+								<gco:Date>2013-04-16T:00:00:00</gco:Date>
+							</date>
+							<dateType>
+								<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+							</dateType>
+						</CI_Date>
+					</date>
+					<citedResponsibleParty>
+						<CI_ResponsibleParty>
+							<organisationName>
+								<gco:CharacterString>US Environmental Protection Agency</gco:CharacterString>
+								<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+							</organisationName>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</citedResponsibleParty>
+					<citedResponsibleParty>
+						<CI_ResponsibleParty>
+							<organisationName>
+								<gco:CharacterString>U.S. EPA Office of Research and Development (ORD) - National Health and Environmental Effects Research Laboratory (NHEERL)</gco:CharacterString>
+								<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+							</organisationName>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</citedResponsibleParty>
+					<presentationForm>
+						<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+					</presentationForm>
+				</CI_Citation>
+			</citation>
+			<abstract>
+				<gco:CharacterString>Ecoregions by state were extracted from the seamless national shapefile. Ecoregions denote areas of general similarity in ecosystems and in the type, quality, and quantity of environmental resources. They are designed to serve as a spatial framework for the research, assessment, management, and monitoring of ecosystems and ecosystem components. These general purpose regions are critical for structuring and implementing ecosystem management strategies across federal agencies, state agencies, and nongovernment organizations that are responsible for different types of resources within the same geographical areas. The approach used to compile this map is based on the premise that ecological regions can be identified through the analysis of patterns of biotic and abiotic phenomena, including geology, physiography, vegetation, climate, soils, land use, wildlife, and hydrology. The relative importance of each characteristic varies from one ecological region to another. A Roman numeral hierarchical scheme has been adopted for different levels for ecological regions. Level I is the coarsest level, dividing North America into 15 ecological regions. Level II divides the continent into 50 regions (Commission for Environmental Cooperation Working Group, 1997). At Level III, the continental United States contains 105 regions whereas the conterminous United States has 85 (U.S. Environmental Protection Agency, 2011). Level IV ecoregions are further subdivisions of Level III ecoregions. Methods used to define the ecoregions are explained in Omernik (1995, 2004), Omernik and others (2000), and Gallant and others (1989). Literature cited: Commission for Environmental Cooperation Working Group, 1997, Ecological regions of North America- toward a common perspective: Montreal, Commission for Environmental Cooperation, 71 p. Gallant, A. L., Whittier, T.R., Larsen, D.P., Omernik, J.M., and Hughes, R.M., 1989, Regionalization as a tool for managing environmental resources: Corvallis, Oregon, U.S. Environmental Protection Agency, EPA/600/3-89/060, 152p. Omernik, J.M., 1995, Ecoregions - a framework for environmental management, in Davis, W.S. and Simon, T.P., eds., Biological assessment and criteria-tools for water resource planning and decision making: Boca Raton, Florida, Lewis Publishers, p.49-62. Omernik, J.M., Chapman, S.S., Lillie, R.A., and Dumke, R.T., 2000, Ecoregions of Wisconsin: Transactions of the Wisconsin Academy of Science, Arts, and Letters, v. 88, p. 77-103. Omernik, J.M., 2004, Perspectives on the nature and definitions of ecological regions: Environmental Management, v. 34, Supplement 1, p. s27-s38. U.S. Environmental Protection Agency. 2011. Level III and IV ecoregions of the continental United States. U.S. EPA, National Health and Environmental Effects Research Laboratory, Corvallis, Oregon, Map scale 1:3,000,000. Available online at: http://www.epa.gov/wed/pages/ecoregions/level_iii_iv.htm. Comments and questions regarding Ecoregions should be addressed to Glenn Griffith, USGS, c/o US EPA., 200 SW 35th Street, Corvallis, OR 97333, (541)-754-4465, email:griffith.glenn@epa.gov Alternate: James Omernik, USGS, c/o US EPA, 200 SW 35th Street, Corvallis, OR 97333, (541)-754-4458, email:omernik.james@epa.gov</gco:CharacterString>
+			</abstract>
+			<purpose>
+				<gco:CharacterString>Ecoregion maps assist managers of aquatic and terrestrial resources to understand the regional patterns of the realistically attainable quality of these resources. This datasets is made available to interested persons through the University of Arizona's instance of Open Geoportal. It has been provided to assist educators, students, researchers, and policy makers in mapping and/or analysis applications.</gco:CharacterString>
+			</purpose>
+			<status>
+				<MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+			</status>
+			<pointOfContact>
+				<CI_ResponsibleParty>
+					<individualName>
+						<gco:CharacterString>Marc Weber</gco:CharacterString>
+					</individualName>
+					<organisationName>
+						<gco:CharacterString>U.S. Environmental Protection Agency, Office of Research and Development, National Health and Environmental Effects Research Laboratory (NHEERL)</gco:CharacterString>
+					</organisationName>
+					<positionName>
+						<gco:CharacterString>GIS Analyst</gco:CharacterString>
+					</positionName>
+					<contactInfo>
+						<CI_Contact>
+							<phone>
+								<CI_Telephone>
+									<voice>
+										<gco:CharacterString>(541) 754-4469</gco:CharacterString>
+									</voice>
+								</CI_Telephone>
+							</phone>
+							<address>
+								<CI_Address>
+									<deliveryPoint>
+										<gco:CharacterString>200 S.W. 35th Street</gco:CharacterString>
+									</deliveryPoint>
+									<city>
+										<gco:CharacterString>Corvallis</gco:CharacterString>
+									</city>
+									<administrativeArea>
+										<gco:CharacterString>OR</gco:CharacterString>
+									</administrativeArea>
+									<postalCode>
+										<gco:CharacterString>97333</gco:CharacterString>
+									</postalCode>
+									<electronicMailAddress>
+										<gco:CharacterString>weber.marc@epa.gov</gco:CharacterString>
+									</electronicMailAddress>
+								</CI_Address>
+							</address>
+							<contactInstructions>
+								<gco:CharacterString>http://www.epa.gov/nheerl/</gco:CharacterString>
+							</contactInstructions>
+						</CI_Contact>
+					</contactInfo>
+					<role>
+						<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+					</role>
+				</CI_ResponsibleParty>
+			</pointOfContact>
+			<resourceMaintenance>
+				<MD_MaintenanceInformation>
+					<maintenanceAndUpdateFrequency>
+						<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</MD_MaintenanceFrequencyCode>
+					</maintenanceAndUpdateFrequency>
+				</MD_MaintenanceInformation>
+			</resourceMaintenance>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>Environment</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>Surface Water</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>Natural Resources</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>Ecosystem</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>Management</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>EPA GIS Keyword Thesaurus</gco:CharacterString>
+							</title>
+							<date gco:nilReason="missing"/>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>State of Arizona</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>GNIS</gco:CharacterString>
+							</title>
+							<date gco:nilReason="missing"/>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>United States</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+					</type>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<resourceConstraints>
+				<MD_SecurityConstraints>
+					<classification gco:nilReason="missing"/>
+					<classificationSystem>
+						<gco:CharacterString>FIPS Pub 199</gco:CharacterString>
+					</classificationSystem>
+					<handlingDescription>
+						<gco:CharacterString>Standard Technical Controls</gco:CharacterString>
+					</handlingDescription>
+				</MD_SecurityConstraints>
+			</resourceConstraints>
+			<spatialRepresentationType>
+				<MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+			</spatialRepresentationType>
+			<language>
+				<LanguageCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#LanguageCode" codeListValue="eng">eng</LanguageCode>
+			</language>
+			<topicCategory>
+				<MD_TopicCategoryCode>environment</MD_TopicCategoryCode>
+			</topicCategory>
+			<topicCategory>
+				<MD_TopicCategoryCode>boundaries</MD_TopicCategoryCode>
+			</topicCategory>
+			<topicCategory>
+				<MD_TopicCategoryCode>location</MD_TopicCategoryCode>
+			</topicCategory>
+			<topicCategory>
+				<MD_TopicCategoryCode>biota</MD_TopicCategoryCode>
+			</topicCategory>
+			<environmentDescription>
+				<gco:CharacterString>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcGIS 10.0.3.3600</gco:CharacterString>
+			</environmentDescription>
+			<extent>
+				<EX_Extent>
+					<geographicElement>
+						<EX_GeographicBoundingBox>
+							<westBoundLongitude>
+								<gco:Decimal>-115.88288</gco:Decimal>
+							</westBoundLongitude>
+							<eastBoundLongitude>
+								<gco:Decimal>-108.138986</gco:Decimal>
+							</eastBoundLongitude>
+							<southBoundLatitude>
+								<gco:Decimal>30.572625</gco:Decimal>
+							</southBoundLatitude>
+							<northBoundLatitude>
+								<gco:Decimal>37.635581</gco:Decimal>
+							</northBoundLatitude>
+						</EX_GeographicBoundingBox>
+					</geographicElement>
+				</EX_Extent>
+			</extent>
+			<extent>
+				<EX_Extent>
+					<temporalElement>
+						<EX_SpatialTemporalExtent>
+							<extent>
+								<gml:TimeInstant>
+									<gml:timePosition>2013-04-16T00:00:00</gml:timePosition>
+								</gml:TimeInstant>
+							</extent>
+						</EX_SpatialTemporalExtent>
+					</temporalElement>
+				</EX_Extent>
+			</extent>
+			<supplementalInformation>
+				<gco:CharacterString>Electronic versions of ecoregion maps and posters as well as other ecoregion resources are available at: http://www.epa.gov/wed/pages/ecoregions.htm. Except for the Great Lakes, waterbodies were merged with surrounding ecoregion polygons, especially along coastlines. Ecoregions were digitized at 1:250,000 scale and are intended for large geographic extents (i.e. states, multiple counties, or river basins). Use for smaller areas, such as individual counties or a 1:24,000 scale map boundary, is not recommended.</gco:CharacterString>
+			</supplementalInformation>
+		</MD_DataIdentification>
+	</identificationInfo>
+	<distributionInfo>
+		<MD_Distribution>
+			<distributor>
+				<MD_Distributor>
+					<distributorContact>
+						<CI_ResponsibleParty>
+							<individualName>
+								<gco:CharacterString>Geospatial Data Manager</gco:CharacterString>
+							</individualName>
+							<organisationName>
+								<gco:CharacterString>University of Arizona Library</gco:CharacterString>
+							</organisationName>
+							<positionName>
+								<gco:CharacterString>GIS Analyst</gco:CharacterString>
+							</positionName>
+							<contactInfo>
+								<CI_Contact>
+									<phone>
+										<CI_Telephone>
+											<voice>
+												<gco:CharacterString>(541) 754-4469</gco:CharacterString>
+											</voice>
+										</CI_Telephone>
+									</phone>
+									<address>
+										<CI_Address>
+											<deliveryPoint>
+												<gco:CharacterString>1510 E University Blvd.</gco:CharacterString>
+											</deliveryPoint>
+											<city>
+												<gco:CharacterString>Tucson</gco:CharacterString>
+											</city>
+											<administrativeArea>
+												<gco:CharacterString>Arizona</gco:CharacterString>
+											</administrativeArea>
+											<postalCode>
+												<gco:CharacterString>85712</gco:CharacterString>
+											</postalCode>
+											<country>
+												<Country codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CountryCode" codeListValue="US" codeSpace="ISO3166-alpha2">US</Country>
+											</country>
+											<electronicMailAddress>
+												<gco:CharacterString>LBRY-uageoportal@email.arizona.edu</gco:CharacterString>
+											</electronicMailAddress>
+										</CI_Address>
+									</address>
+									<contactInstructions>
+										<gco:CharacterString>http://www.epa.gov/nheerl/</gco:CharacterString>
+									</contactInstructions>
+								</CI_Contact>
+							</contactInfo>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</distributorContact>
+					<distributorTransferOptions>
+						<MD_DigitalTransferOptions>
+							<onLine>
+								<CI_OnlineResource>
+									<linkage>
+										<gco:URL>http://dx.doi.org/10.2458/azu_geo_arizona_level4ecoregions_2013</gco:URL>
+									</linkage>
+								</CI_OnlineResource>
+							</onLine>
+						</MD_DigitalTransferOptions>
+					</distributorTransferOptions>
+					<distributorFormat>
+						<MD_Format>
+							<name>
+								<gco:CharacterString>Shapefile</gco:CharacterString>
+							</name>
+						</MD_Format>
+					</distributorFormat>
+				</MD_Distributor>
+			</distributor>
+			<transferOptions>
+				<MD_DigitalTransferOptions>
+					<!-- WARNING: no content -->
+				</MD_DigitalTransferOptions>
+			</transferOptions>
+		</MD_Distribution>
+	</distributionInfo>
+	<dataQualityInfo>
+		<DQ_DataQuality>
+			<scope>
+				<DQ_Scope>
+					<level>
+						<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+					</level>
+				</DQ_Scope>
+			</scope>
+			<report>
+				<DQ_TopologicalConsistency>
+					<evaluationMethodDescription>
+						<gco:CharacterString>Although ecoregion polygons and attributes have been checked for accuracy, some errors may remain. Polygons along state borders were reviewed and updated, May 2010. ARC/INFO software is used to create and maintain topological relationships.</gco:CharacterString>
+					</evaluationMethodDescription>
+					<result gco:nilReason="missing"/>
+				</DQ_TopologicalConsistency>
+			</report>
+			<report>
+				<DQ_ConceptualConsistency>
+					<measureDescription>
+						<gco:CharacterString>Although ecoregion polygons and attributes have been checked for accuracy, some errors may remain. Polygons along state borders were reviewed and updated, May 2010. ARC/INFO software is used to create and maintain topological relationships.</gco:CharacterString>
+					</measureDescription>
+				</DQ_ConceptualConsistency>
+			</report>
+			<report>
+				<DQ_CompletenessOmission>
+					<measureDescription>
+						<gco:CharacterString>Unknown</gco:CharacterString>
+					</measureDescription>
+				</DQ_CompletenessOmission>
+			</report>
+			<report>
+				<DQ_AbsoluteExternalPositionalAccuracy>
+					<measureDescription>
+						<gco:CharacterString>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at http://epa.gov/geospatial/policies.html</gco:CharacterString>
+					</measureDescription>
+					<result gco:nilReason="missing"/>
+				</DQ_AbsoluteExternalPositionalAccuracy>
+			</report>
+			<lineage>
+				<LI_Lineage>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>13) Updated Arizona Level III and IV polygons and metadata</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2013-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>11) Select State from national geodatabase</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2011-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>Dataset renamed from az_eco_l4.shp to Arizona_Level4EcoRegions_2013.shp by Ben Hickson with the University of Arizona Library. Metadata fields corresponding the Open Geoportal Working Group Best Practices Guide (http://opengeoportal.org/working-groups/metadata/) were also updated.</gco:CharacterString>
+							</description>
+							<dateTime/>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>5) Maps are plotted for visual inspection by two individuals and necessary changes made.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2011-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>4) Attributes are added.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2011-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>2) All base maps are joined together and errors along the edges are resolved.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2011-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>9) Topology errors removed.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2011-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>12) metadata</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2012-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>10) Final QA</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2011-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>1) U.S.G.S. 1:250,000 topographic maps are used to delineate the ecoregions. The lines drawn are manually digitized or scanned to produce georeferenced electronic files.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2011-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>3) Topology is established and the maps are reviewed for accuracy, completeness, and conformity with the original lines. Corrections are made as needed and topology regenerated.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2011-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>8) State and Ecoregion datasets are intersected.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2011-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>6) Ecoregions from all available states are merged and dissolved to identify and correct inconsistencies.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2011-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>7) Polygons of the corrected seamless ecoregion features are extended beyond the coastal borders.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2011-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<source>
+						<LI_Source/>
+					</source>
+				</LI_Lineage>
+			</lineage>
+		</DQ_DataQuality>
+	</dataQualityInfo>
+	<metadataMaintenance>
+		<MD_MaintenanceInformation>
+			<maintenanceAndUpdateFrequency>
+				<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="unknown" codeSpace="ISOTC211/19115">unknown</MD_MaintenanceFrequencyCode>
+			</maintenanceAndUpdateFrequency>
+			<dateOfNextUpdate>
+				<gco:Date>2017-04-16</gco:Date>
+			</dateOfNextUpdate>
+		</MD_MaintenanceInformation>
+	</metadataMaintenance>
+	<referenceSystemInfo>
+		<MD_ReferenceSystem>
+			<referenceSystemIdentifier>
+				<RS_Identifier>
+					<code>
+						<gco:CharacterString>NAD83 (EPSG:4269)</gco:CharacterString>
+					</code>
+					<codeSpace>
+						<gco:CharacterString>EPSG</gco:CharacterString>
+					</codeSpace>
+					<version>
+						<gco:CharacterString>7.9</gco:CharacterString>
+					</version>
+				</RS_Identifier>
+			</referenceSystemIdentifier>
+		</MD_ReferenceSystem>
+	</referenceSystemInfo>
+	<dataSetURI>
+		<gco:CharacterString>http://dx.doi.org/10.2458/azu_geo_arizona_level4ecoregions_2013</gco:CharacterString>
+	</dataSetURI>
+</MD_Metadata>

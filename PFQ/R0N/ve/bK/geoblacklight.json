@@ -1,0 +1,36 @@
+{
+    "layer_slug_s": "uarizona-arizona-wards-1930",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_arizona_wards_1930",
+    "dc_title_s": "Wards, Arizona, 1930",
+    "dc_description_s": "Statewide coverage of 1930 Census City Wards for Arizona. Wards were determined from textual description of the boundaries.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/PFQ/R0N/ve/bK/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:Arizona_Wards_1930",
+    "dct_isPartOf_sm": [
+        "General"
+    ],
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2017-08-16T16:33:46Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "University of Arizona",
+    "dc_creator_sm": "University of Arizona. Library",
+    "dc_subject_sm": [
+        "Population",
+        "Census",
+        "Planning Cadastre",
+        "Society",
+        "Boundaries"
+    ],
+    "dct_issued_s": "2007-01-01T:00:00:00",
+    "dct_temporal_sm": "1930",
+    "dct_spatial_sm": [
+        "State of Arizona",
+        "Arizona"
+    ],
+    "solr_geom": "ENVELOPE(-110.999982, -109.503247, 33.407813, 31.333943)",
+    "solr_year_i": "1930",
+    "geoblacklight_version": "1.0"
+}

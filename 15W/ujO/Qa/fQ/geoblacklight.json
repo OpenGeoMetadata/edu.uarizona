@@ -1,0 +1,37 @@
+{
+    "layer_slug_s": "uarizona-arizona-wildernessareas-1990",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_arizona_wildernessareas_1990",
+    "dc_title_s": "Wilderness Areas, Arizona, 1990",
+    "dc_description_s": "This statewide data set includes Bureau of Land Management, U.S. Forest Service, National Park Service and Fish & Wildlife Service Riparian Natural Conservation areas, Wilderness Study areas and Wilderness or Primitive areas.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/15W/ujO/Qa/fQ/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:Arizona_WildernessAreas_1990",
+    "dct_isPartOf_sm": [
+        "General"
+    ],
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2017-08-16T16:33:52Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "Arizona State Land Department",
+    "dc_creator_sm": "Arizona. State Land Department",
+    "dc_subject_sm": [
+        "Wild Lands",
+        "Protected Areas",
+        "Conservation",
+        "Biota",
+        "Boundaries",
+        "Environment"
+    ],
+    "dct_issued_s": "1990-01-01T:00:00:00",
+    "dct_temporal_sm": "1993",
+    "dct_spatial_sm": [
+        "State of Arizona",
+        "Arizona"
+    ],
+    "solr_geom": "ENVELOPE(-114.883382, -108.915583, 37.033864, 31.285504)",
+    "solr_year_i": "1993",
+    "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,41 @@
+{
+    "layer_slug_s": "uarizona-arizona-statsgov2-3-2-2006",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_arizona_statsgov2-3-2_2006",
+    "dc_title_s": "STATSGO (v. 2.3.2), Arizona, 2006",
+    "dc_description_s": "This data set consists of general soil association units for the state of Arizona. It was develped by the National Cooperative Soil Survey and supersedes the State Soil Geographic (STATSGO) data set published in 1994. It consists of a broad based inventory of soils and nonsoil areas that occur in a repeatable pattern on the landscape and that can be cartographically shown at the scale mapped. The data set was created by generalizing more detailed soil survey maps. Where more detailed soil survey maps were not available, data on geology, topography, vegetation, and climate were assembled, together with Land Remote Sensing Satellite (LANDSAT) images. Soils of like areas were studied, and the probable classification and extent of the soils were determined. Map unit composition was determined by transecting or sampling areas on the more detailed maps and expanding the data statistically to characterize the whole map unit. This data set consists of georeferenced vector digital data and tabular digital data. The map data were collected in 1-by 2-degree topographic quadrangle units and merged into a seamless national data set. It is distributed in state/territory and national extents. The soil map units are linked to attributes in the National Soil Information System data base which gives the proportionate extent of the component soils and their properties.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/Ujf/vPB/5z/Vo/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:Arizona_STATSGOv2-3-2_2006",
+    "dct_isPartOf_sm": [
+        "General"
+    ],
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2017-08-16T16:33:24Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "U.S. Department of Agriculture, Natural Resources Conservation Service",
+    "dc_creator_sm": "United States. Department of Agriculture.",
+    "dc_subject_sm": [
+        "USDA",
+        "National Soil Information System (NASIS)",
+        "Soils",
+        "State Soil Geographic",
+        "General Soil Map",
+        "STATSGO",
+        "United States Department of Agriculture",
+        "Geoscientific Information",
+        "Farming"
+    ],
+    "dct_issued_s": "2006-07-05T:00:00:00",
+    "dct_temporal_sm": "2006-07-05T00:00:00",
+    "dct_spatial_sm": [
+        "State of Arizona",
+        "Colorado",
+        "USA"
+    ],
+    "solr_geom": "ENVELOPE(-114.814442, -109.045123, 37.004267, 31.332341)",
+    "solr_year_i": "2006",
+    "geoblacklight_version": "1.0"
+}

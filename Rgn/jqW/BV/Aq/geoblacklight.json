@@ -1,0 +1,37 @@
+{
+    "layer_slug_s": "uarizona-arizona-mines-1993",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_arizona_mines_1993",
+    "dc_title_s": "Mine Locations, Arizona, 1993",
+    "dc_description_s": "This dataset depicts locations of mines throughout Arizona. This coverage is derived from the Bureau of Mines Minerals Availablity System (MAS) data set. Most of the information is from the Minerals Industry System Location (MILS) table. Mine types are grouped into Leach, Mineral Loc, Placer, Proc Plant, Prospect, Surf-Underg, Surface, Underground, Well, and Unknown. Names of mines and comodity are also defined.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/Rgn/jqW/BV/Aq/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:Arizona_Mines_1993",
+    "dct_isPartOf_sm": [
+        "General"
+    ],
+    "layer_geom_type_s": "Point",
+    "layer_modified_dt": "2017-08-16T16:32:42Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "Arizona State Land Department",
+    "dc_creator_sm": "Arizona. State Land Department",
+    "dc_subject_sm": [
+        "mine shafts",
+        "MAS",
+        "mines",
+        "Minerals Available System",
+        "Geoscientific Information",
+        "Environment"
+    ],
+    "dct_issued_s": "1993-01-01T:00:00:00",
+    "dct_temporal_sm": "1993",
+    "dct_spatial_sm": [
+        "State of Arizona",
+        "Arizona"
+    ],
+    "solr_geom": "ENVELOPE(-115.017106, -107.903557, 36.997573, 31.279708)",
+    "solr_year_i": "1993",
+    "geoblacklight_version": "1.0"
+}

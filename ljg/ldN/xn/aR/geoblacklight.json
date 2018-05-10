@@ -1,0 +1,33 @@
+{
+    "layer_slug_s": "uarizona-arizona-annualmeanmaximumdailysnowfall-1961to1990",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_arizona_annualmeanmaximumdailysnowfall_1961to1990",
+    "dc_title_s": "Annual Mean Maximum Daily Snowfall, Arizona, 1961-1990",
+    "dc_description_s": "This element was computed using data from the National Climatic Data Center's United States Snow Climatology (TD-9641M) database (NCDC, 1999c). The original data and this element are given in tenths of an inch, with daily trace values designated as zero. The mean monthly values were computed by taking the 30-year mean of the maximum daily snowfall values for a given month. The mean annual value was computed by taking the 30-year mean of the yearly means. The yearly means were computed by averaging their 12 monthly mean maximum daily snowfall values. Data was extracted for Arizona and 25 mile buffer.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/ljg/ldN/xn/aR/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:Arizona_AnnualMeanMaximumDailySnowfall_1961to1990",
+    "dct_isPartOf_sm": [
+        "General"
+    ],
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2017-08-16T16:30:24Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "National Climatic Data Center (U.S.)",
+    "dc_creator_sm": "National Climatic Data Center (U.S.)",
+    "dc_subject_sm": [
+        "climatologyMeterologyAtmosphere",
+        "Maximum daily snowfall",
+        "climatologyMeteorologyAtmosphere"
+    ],
+    "dct_issued_s": "1999-01-01T:00:00:00",
+    "dct_temporal_sm": "1961",
+    "dct_spatial_sm": [
+        "State of Arizona"
+    ],
+    "solr_geom": "ENVELOPE(-115.484453, -108.4506, 37.40196, 31.198618)",
+    "solr_year_i": "1961",
+    "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,44 @@
+{
+    "layer_slug_s": "uarizona-cabezaprietanwr-vegetation-2004",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_cabezaprietanwr_vegetation_2004",
+    "dc_title_s": "The vegetation types in Sonoran Pronghhorn habitat, Cabeza Prieta NWR, 2004",
+    "dc_description_s": "The vegetation of Sonoran Pronghhorn habitat on the BLM lands and Cabeza Prieta NWR near Ajo, Arizona. This dataset and other ancillary data can be found in the University of Arizona campus reposistory here: http://arizona.openrepository.com/arizona/handle/10150/128469/browse?type=title",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/jr2/rPk/3q/Ic/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:CabezaPrietaNWR_Vegetation_2004",
+    "dct_isPartOf_sm": [
+        "Jim Malusa"
+    ],
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2017-08-16T16:33:57Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "United States Geological Survey",
+    "dc_creator_sm": "Jim Malusa, USGS",
+    "dc_subject_sm": [
+        "wilderness",
+        "Sonoran Pronghorn",
+        "bursage associations",
+        "Creosote associations",
+        "Vegetation Associations",
+        "Environment",
+        "Biota"
+    ],
+    "dct_issued_s": "2004-10-01T:00:00:00",
+    "dct_temporal_sm": "2004-10-01T00:00:00",
+    "dct_spatial_sm": [
+        "Organ Pipe Cactus NM",
+        "Ajo",
+        "Organ Pipe Cactus National Monument",
+        "Southwestern Arizona",
+        "Ajo, Arizona",
+        "BLM",
+        "Cabeza Prieta Wilderness",
+        "Cabeza Prieta NWR"
+    ],
+    "solr_geom": "ENVELOPE(-113.448267, -112.739273, 32.511061, 32.134947)",
+    "solr_year_i": "2004",
+    "geoblacklight_version": "1.0"
+}

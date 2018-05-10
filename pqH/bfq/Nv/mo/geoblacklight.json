@@ -1,0 +1,36 @@
+{
+    "layer_slug_s": "uarizona-arizona-countysubdivisions-1960",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_arizona_countysubdivisions_1960",
+    "dc_title_s": "County Subdivisions, Arizona, 1960",
+    "dc_description_s": "Statewide coverage of 1960 Census County Subdivisions",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/pqH/bfq/Nv/mo/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:Arizona_CountySubdivisions_1960",
+    "dct_isPartOf_sm": [
+        "Arizona County Subdivisions"
+    ],
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2017-08-16T16:31:16Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "University of Arizona",
+    "dc_creator_sm": "University of Arizona. Library",
+    "dc_subject_sm": [
+        "Census",
+        "Population",
+        "Planning Cadastre",
+        "Society",
+        "Boundaries"
+    ],
+    "dct_issued_s": "2007-01-01T:00:00:00",
+    "dct_temporal_sm": "1960",
+    "dct_spatial_sm": [
+        "State of Arizona",
+        "Arizona"
+    ],
+    "solr_geom": "ENVELOPE(-115.02799, -108.914467, 37.039632, 31.276917)",
+    "solr_year_i": "1960",
+    "geoblacklight_version": "1.0"
+}

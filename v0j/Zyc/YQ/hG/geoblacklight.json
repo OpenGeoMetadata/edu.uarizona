@@ -1,0 +1,37 @@
+{
+    "layer_slug_s": "uarizona-aguafriariver-wetdrypoints-2010",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_aguafriariver_wetdrypoints_2010",
+    "dc_title_s": "Wet and Dry Points along the Agua Fria River, Arizona, 2010",
+    "dc_description_s": "A shapefile of the wet and dry points identified by volunteer data collectors for 2010 along the Agua Fria River. This datasets and other ancillary data can be found in the University of Arizona Campus Repository here: http://arizona.openrepository.com/arizona/handle/10150/188510",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/v0j/Zyc/YQ/hG/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:AguaFriaRiver_WetDryPoints_2010",
+    "dct_isPartOf_sm": [
+        "Agua Fria River",
+        "Wet and Dry Points on River"
+    ],
+    "layer_geom_type_s": "Point",
+    "layer_modified_dt": "2017-08-16T16:29:40Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "Arizona NEMO",
+    "dc_creator_sm": "Arizona NEMO",
+    "dc_subject_sm": [
+        "Agua Fria, Wet, Dry",
+        "inlandWater",
+        "environment",
+        "Environment"
+    ],
+    "dct_issued_s": "2011-06-01T:00:00:00",
+    "dct_temporal_sm": "2010",
+    "dct_spatial_sm": [
+        "Black Canyon",
+        "Lake Pleasant",
+        "Agua Fria River"
+    ],
+    "solr_geom": "ENVELOPE(-112.152341, -78.036608, 34.417625, 3.02081)",
+    "solr_year_i": "2010",
+    "geoblacklight_version": "1.0"
+}

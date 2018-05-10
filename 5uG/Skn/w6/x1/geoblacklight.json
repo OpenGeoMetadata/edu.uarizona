@@ -1,0 +1,33 @@
+{
+    "layer_slug_s": "uarizona-arizona-irrigationdistricts-2014",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_arizona_irrigationdistricts_2014",
+    "dc_title_s": "Irrigation Districts, Arizona, 2014",
+    "dc_description_s": "Irrigation districts are municipal corporations with broad powers and purposes. Districts can purchase or acquire water rights, own or sell property and real estate, construct facilities, generate electricity, appropriate water for irrigation and power generation, tax and charge for services, appropriate money, and provide the district with water, electricity, and other public conveniences and necessities generally provided by municipalities.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/5uG/Skn/w6/x1/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:Arizona_IrrigationDistricts_2014",
+    "dct_isPartOf_sm": [
+        "General"
+    ],
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2017-08-16T16:31:53Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "Arizona Department of Water Resources",
+    "dc_creator_sm": "Arizona. Department of Water Resources",
+    "dc_subject_sm": [
+        "Farming",
+        "utilitiesCommunication",
+        "Planning Cadastre"
+    ],
+    "dct_issued_s": "2014-12-17T:00:00:00",
+    "dct_temporal_sm": "2014-12-17T00:00:00",
+    "dct_spatial_sm": [
+        "State of Arizona"
+    ],
+    "solr_geom": "ENVELOPE(-114.798895, -108.934892, 36.951004, 31.8325)",
+    "solr_year_i": "2014",
+    "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,33 @@
+{
+    "layer_slug_s": "uarizona-arizona-median1st32degftempautumn-1961to1990",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_arizona_median1st32degftempautumn_1961to1990",
+    "dc_title_s": "Median First 32 Degree Fahrenheit Temperature in Autumn, Arizona, 1961-1990",
+    "dc_description_s": "This element was computed using data from the National Climatic Data Center's Cooperative Summary of the Day (TD-3200) database (NCDC, 1995). The original data is in whole degrees Fahrenheit. This element is given as a date range. The date of occurrence of the first 32 degree Fahrenheit temperature observation in autumn was based on the median, mean, and extreme dates of such occurrence from 30 years of daily minimum temperature values, respectively. If at least one 32 degree Fahrenheit temperature was observed in the last six months of the calendar year, but a 32 degree Fahrenheit temperature did not occur in at least one-half of the years of available data, then the station was designated \"RARE FREEZE.\" If no 32 degree Fahrenheit temperatures were observed in the last six months of the calendar year, then the station was designated \"NO FREEZE.\" Daily minimum temperatures were the lowest observed temperatures for the 24-hour period ending at the time of observation for a given station. Data extracted for Arizona and 25 mile buffer.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/n0a/UeL/Gl/xY/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:Arizona_Median1st32DegFTempAutumn_1961to1990",
+    "dct_isPartOf_sm": [
+        "General"
+    ],
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2017-08-16T16:32:35Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "National Climatic Data Center (U.S.)",
+    "dc_creator_sm": "National Climatic Data Center (U.S.)",
+    "dc_subject_sm": [
+        "climatologyMeterologyAtmosphere",
+        "First 32 degree temperature",
+        "climatologyMeteorologyAtmosphere"
+    ],
+    "dct_issued_s": "1995-01-01T:00:00:00",
+    "dct_temporal_sm": "1961",
+    "dct_spatial_sm": [
+        "State of Arizona"
+    ],
+    "solr_geom": "ENVELOPE(-115.484557, -108.4506, 37.40196, 31.191622)",
+    "solr_year_i": "1961",
+    "geoblacklight_version": "1.0"
+}

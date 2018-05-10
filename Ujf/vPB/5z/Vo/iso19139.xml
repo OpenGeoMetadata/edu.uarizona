@@ -1,0 +1,970 @@
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<language>
+		<LanguageCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#LanguageCode" codeListValue="eng">eng</LanguageCode>
+	</language>
+	<hierarchyLevel>
+		<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</MD_ScopeCode>
+	</hierarchyLevel>
+	<contact>
+		<CI_ResponsibleParty>
+			<individualName>
+				<gco:CharacterString>Geospatial Data Manager</gco:CharacterString>
+			</individualName>
+			<organisationName>
+				<gco:CharacterString>University of Arizona Library</gco:CharacterString>
+			</organisationName>
+			<role>
+				<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+			</role>
+			<contactInfo>
+				<CI_Contact>
+					<address>
+						<CI_Address>
+							<electronicMailAddress>
+								<gco:CharacterString>LBRY-uageoportal@email.arizona.edu</gco:CharacterString>
+							</electronicMailAddress>
+						</CI_Address>
+					</address>
+				</CI_Contact>
+			</contactInfo>
+		</CI_ResponsibleParty>
+	</contact>
+	<dateStamp>
+		<gco:Date>2017-08-16T16:33:24</gco:Date>
+	</dateStamp>
+	<metadataStandardName>
+		<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+	</metadataStandardName>
+	<metadataStandardVersion>
+		<gco:CharacterString>2007</gco:CharacterString>
+	</metadataStandardVersion>
+	<spatialRepresentationInfo>
+		<MD_VectorSpatialRepresentation>
+			<geometricObjects>
+				<MD_GeometricObjects>
+					<geometricObjectType>
+						<MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="complex" codeSpace="ISOTC211/19115">complex</MD_GeometricObjectTypeCode>
+					</geometricObjectType>
+				</MD_GeometricObjects>
+			</geometricObjects>
+			<geometricObjects>
+				<MD_GeometricObjects>
+					<geometricObjectCount>
+						<gco:Integer>1382</gco:Integer>
+					</geometricObjectCount>
+				</MD_GeometricObjects>
+			</geometricObjects>
+		</MD_VectorSpatialRepresentation>
+	</spatialRepresentationInfo>
+	<identificationInfo>
+		<MD_DataIdentification>
+			<citation>
+				<CI_Citation>
+					<title>
+						<gco:CharacterString>STATSGO (v. 2.3.2), Arizona, 2006</gco:CharacterString>
+					</title>
+					<date>
+						<CI_Date>
+							<date>
+								<gco:Date>2006-07-05T:00:00:00</gco:Date>
+							</date>
+							<dateType>
+								<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+							</dateType>
+						</CI_Date>
+					</date>
+					<citedResponsibleParty>
+						<CI_ResponsibleParty>
+							<organisationName>
+								<gco:CharacterString>U.S. Department of Agriculture, Natural Resources Conservation Service</gco:CharacterString>
+								<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+							</organisationName>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</citedResponsibleParty>
+					<citedResponsibleParty>
+						<CI_ResponsibleParty>
+							<organisationName>
+								<gco:CharacterString>United States. Department of Agriculture.</gco:CharacterString>
+								<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+							</organisationName>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</citedResponsibleParty>
+				</CI_Citation>
+			</citation>
+			<abstract>
+				<gco:CharacterString>This data set consists of general soil association units for the state of Arizona. It was develped by the National Cooperative Soil Survey and supersedes the State Soil Geographic (STATSGO) data set published in 1994. It consists of a broad based inventory of soils and nonsoil areas that occur in a repeatable pattern on the landscape and that can be cartographically shown at the scale mapped. The data set was created by generalizing more detailed soil survey maps. Where more detailed soil survey maps were not available, data on geology, topography, vegetation, and climate were assembled, together with Land Remote Sensing Satellite (LANDSAT) images. Soils of like areas were studied, and the probable classification and extent of the soils were determined. Map unit composition was determined by transecting or sampling areas on the more detailed maps and expanding the data statistically to characterize the whole map unit. This data set consists of georeferenced vector digital data and tabular digital data. The map data were collected in 1-by 2-degree topographic quadrangle units and merged into a seamless national data set. It is distributed in state/territory and national extents. The soil map units are linked to attributes in the National Soil Information System data base which gives the proportionate extent of the component soils and their properties.</gco:CharacterString>
+			</abstract>
+			<purpose>
+				<gco:CharacterString>These data provide information about soil features on or near the surface of the Earth. Data were collected as part of the National Cooperative Soil Survey. These data are intended for geographic display and analysis at the state, regional, and national level. The data should be displayed and analyzed at scales appropriate for 1:250,000-scale data. This datasets is made available to interested persons through the University of Arizona's instance of Open Geoportal. It has been provided to assist educators, students, researchers, and policy makers in mapping and/or analysis applications.</gco:CharacterString>
+			</purpose>
+			<status>
+				<MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+			</status>
+			<pointOfContact>
+				<CI_ResponsibleParty>
+					<organisationName>
+						<gco:CharacterString>U.S. Department of Agriculture, Natural Resources Conservation Service</gco:CharacterString>
+					</organisationName>
+					<positionName>
+						<gco:CharacterString>State Soil Scientist</gco:CharacterString>
+					</positionName>
+					<contactInfo>
+						<CI_Contact>
+							<phone>
+								<CI_Telephone>
+									<voice>
+										<gco:CharacterString>402-437-5755</gco:CharacterString>
+									</voice>
+								</CI_Telephone>
+							</phone>
+							<address>
+								<CI_Address>
+									<deliveryPoint>
+										<gco:CharacterString>USDA - Natural Resources Conservation Service</gco:CharacterString>
+									</deliveryPoint>
+									<deliveryPoint>
+										<gco:CharacterString>Federal Building, Room 152 - Mail Stop 33</gco:CharacterString>
+									</deliveryPoint>
+									<deliveryPoint>
+										<gco:CharacterString>National Soil Survey Center</gco:CharacterString>
+									</deliveryPoint>
+									<deliveryPoint>
+										<gco:CharacterString>100 Centennial Mall North</gco:CharacterString>
+									</deliveryPoint>
+									<city>
+										<gco:CharacterString>Lincoln</gco:CharacterString>
+									</city>
+									<administrativeArea>
+										<gco:CharacterString>NE</gco:CharacterString>
+									</administrativeArea>
+									<postalCode>
+										<gco:CharacterString>68508-3866</gco:CharacterString>
+									</postalCode>
+									<electronicMailAddress>
+										<gco:CharacterString>jim.fortner@lin.usda.gov</gco:CharacterString>
+									</electronicMailAddress>
+								</CI_Address>
+							</address>
+						</CI_Contact>
+					</contactInfo>
+					<role>
+						<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+					</role>
+				</CI_ResponsibleParty>
+			</pointOfContact>
+			<resourceMaintenance>
+				<MD_MaintenanceInformation>
+					<maintenanceAndUpdateFrequency>
+						<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</MD_MaintenanceFrequencyCode>
+					</maintenanceAndUpdateFrequency>
+				</MD_MaintenanceInformation>
+			</resourceMaintenance>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>National Soil Information System (NASIS)</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>State Soil Geographic</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>USDA</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>STATSGO</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>Soils</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>United States Department of Agriculture</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>General Soil Map</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+					</type>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>USA</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+					</type>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>Colorado</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of Special Sovereignty, and Their Principal Administrative Divisions (Federal Information Processing Standard 10-4): Washington, DC, National Institute of Standards and Technology.</gco:CharacterString>
+							</title>
+							<date gco:nilReason="missing"/>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>State of Arizona</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>GNIS</gco:CharacterString>
+							</title>
+							<date gco:nilReason="missing"/>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<aggregationInfo>
+				<MD_AggregateInformation>
+					<aggregateDataSetName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>State Soil Survey Geographic (STATSGO) data base</gco:CharacterString>
+							</title>
+							<date>
+								<CI_Date>
+									<date>
+										<gco:Date>1994-01-01</gco:Date>
+									</date>
+									<dateType>
+										<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+									</dateType>
+								</CI_Date>
+							</date>
+							<citedResponsibleParty>
+								<CI_ResponsibleParty>
+									<organisationName>
+										<gco:CharacterString>U.S. Department of Agriculture, Soil Conservation Service</gco:CharacterString>
+										<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+									</organisationName>
+									<role>
+										<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+									</role>
+								</CI_ResponsibleParty>
+							</citedResponsibleParty>
+						</CI_Citation>
+					</aggregateDataSetName>
+					<associationType>
+						<DS_AssociationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_AssociationTypeCode" codeListValue="crossReference" codeSpace="ISOTC211/19115">crossReference</DS_AssociationTypeCode>
+					</associationType>
+				</MD_AggregateInformation>
+			</aggregationInfo>
+			<spatialRepresentationType>
+				<MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+			</spatialRepresentationType>
+			<language>
+				<LanguageCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#LanguageCode" codeListValue="eng">eng</LanguageCode>
+			</language>
+			<topicCategory>
+				<MD_TopicCategoryCode>geoscientificInformation</MD_TopicCategoryCode>
+			</topicCategory>
+			<topicCategory>
+				<MD_TopicCategoryCode>farming</MD_TopicCategoryCode>
+			</topicCategory>
+			<extent>
+				<EX_Extent>
+					<temporalElement>
+						<EX_SpatialTemporalExtent>
+							<extent>
+								<gml:TimeInstant>
+									<gml:timePosition>2006-07-05T00:00:00</gml:timePosition>
+								</gml:TimeInstant>
+							</extent>
+						</EX_SpatialTemporalExtent>
+					</temporalElement>
+				</EX_Extent>
+			</extent>
+			<extent>
+				<EX_Extent>
+					<geographicElement>
+						<EX_GeographicBoundingBox>
+							<westBoundLongitude>
+								<gco:Decimal>-114.814442</gco:Decimal>
+							</westBoundLongitude>
+							<eastBoundLongitude>
+								<gco:Decimal>-109.045123</gco:Decimal>
+							</eastBoundLongitude>
+							<southBoundLatitude>
+								<gco:Decimal>31.332341</gco:Decimal>
+							</southBoundLatitude>
+							<northBoundLatitude>
+								<gco:Decimal>37.004267</gco:Decimal>
+							</northBoundLatitude>
+						</EX_GeographicBoundingBox>
+					</geographicElement>
+				</EX_Extent>
+			</extent>
+		</MD_DataIdentification>
+	</identificationInfo>
+	<distributionInfo>
+		<MD_Distribution>
+			<distributor>
+				<MD_Distributor>
+					<distributorContact>
+						<CI_ResponsibleParty>
+							<individualName>
+								<gco:CharacterString>Geospatial Data Manager</gco:CharacterString>
+							</individualName>
+							<organisationName>
+								<gco:CharacterString>University of Arizona Library</gco:CharacterString>
+							</organisationName>
+							<contactInfo>
+								<CI_Contact>
+									<phone>
+										<CI_Telephone>
+											<voice>
+												<gco:CharacterString>(800) 672-5559</gco:CharacterString>
+											</voice>
+											<facsimile>
+												<gco:CharacterString>(817) 509-3469</gco:CharacterString>
+											</facsimile>
+										</CI_Telephone>
+									</phone>
+									<address>
+										<CI_Address>
+											<deliveryPoint>
+												<gco:CharacterString>1510 E University Blvd.</gco:CharacterString>
+											</deliveryPoint>
+											<deliveryPoint>
+												<gco:CharacterString>P.O. Box 6567</gco:CharacterString>
+											</deliveryPoint>
+											<city>
+												<gco:CharacterString>Tucson</gco:CharacterString>
+											</city>
+											<administrativeArea>
+												<gco:CharacterString>Arizona</gco:CharacterString>
+											</administrativeArea>
+											<postalCode>
+												<gco:CharacterString>85712</gco:CharacterString>
+											</postalCode>
+											<country>
+												<Country codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CountryCode" codeListValue="US" codeSpace="ISO3166-alpha2">US</Country>
+											</country>
+											<electronicMailAddress>
+												<gco:CharacterString>LBRY-uageoportal@email.arizona.edu</gco:CharacterString>
+											</electronicMailAddress>
+										</CI_Address>
+									</address>
+								</CI_Contact>
+							</contactInfo>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</distributorContact>
+					<distributionOrderProcess>
+						<MD_StandardOrderProcess>
+							<fees>
+								<gco:CharacterString>There is currently no direct charge for requesting data or for retrieving via FTP.</gco:CharacterString>
+							</fees>
+							<orderingInstructions>
+								<gco:CharacterString>Visit the above mentioned Internet Web Site, select state or territory or national extent. Spatial data are available in ESRI shapefile format. The National Soil Information System attribute soil data are available in variable length, pipe delimited, ASCII file format.</gco:CharacterString>
+							</orderingInstructions>
+							<turnaround>
+								<gco:CharacterString>Typically within four hours</gco:CharacterString>
+							</turnaround>
+						</MD_StandardOrderProcess>
+					</distributionOrderProcess>
+					<distributorTransferOptions>
+						<MD_DigitalTransferOptions>
+							<onLine>
+								<CI_OnlineResource>
+									<linkage>
+										<gco:URL>http://dx.doi.org/10.2458/azu_geo_arizona_statsgov2-3-2_2006</gco:URL>
+									</linkage>
+								</CI_OnlineResource>
+							</onLine>
+						</MD_DigitalTransferOptions>
+					</distributorTransferOptions>
+					<distributorFormat>
+						<MD_Format>
+							<name>
+								<gco:CharacterString>Shapefile</gco:CharacterString>
+							</name>
+						</MD_Format>
+					</distributorFormat>
+				</MD_Distributor>
+			</distributor>
+			<transferOptions>
+				<MD_DigitalTransferOptions>
+					<!-- WARNING: no content -->
+				</MD_DigitalTransferOptions>
+			</transferOptions>
+		</MD_Distribution>
+	</distributionInfo>
+	<dataQualityInfo>
+		<DQ_DataQuality>
+			<scope>
+				<DQ_Scope>
+					<level>
+						<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+					</level>
+				</DQ_Scope>
+			</scope>
+			<report>
+				<DQ_TopologicalConsistency>
+					<evaluationMethodDescription>
+						<gco:CharacterString>Certain node/geometry and topology (GT)-polygon/chain relationships are collected or generated to satisfy topological requirements. (The GT-polygon corresponds to the soil delineation). Some of these requirements include: chains must begin and end at nodes, chains must connect to each other at nodes, chains do not extend through nodes, left and right GT-polygons are defined for each chain element and are consistent throughout, and the chains representing the limits of the file (neatline) are free of gaps. The tests of logical consistency are performed using vendor software. The neatline is generated by connecting the explicitly entered four corners of the digital file. All data outside the enclosed region are ignored and all data crossing these geographically straight lines are clipped at the neatline. Data within a specified tolerance of the neatline are snapped to the neatline. Neatline straightening aligns the digitized edges of the digital data with the generated neatline (i.e., with the longitude/latitude lines in geographic coordinates). All internal polygons are tested for closure with vendor software and are checked on hard copy plots. All data are checked for common soil lines (i.e., adjacent polygons with the same label). Quadrangles are edge matched within the state, merged into a statewide data sets, and then edge matched to adjacent state data sets. Edge locations do not deviate from centerline to centerline by more than 0.01 inch.</gco:CharacterString>
+					</evaluationMethodDescription>
+					<result gco:nilReason="missing"/>
+				</DQ_TopologicalConsistency>
+			</report>
+			<report>
+				<DQ_ConceptualConsistency>
+					<measureDescription>
+						<gco:CharacterString>Certain node/geometry and topology (GT)-polygon/chain relationships are collected or generated to satisfy topological requirements. (The GT-polygon corresponds to the soil delineation). Some of these requirements include: chains must begin and end at nodes, chains must connect to each other at nodes, chains do not extend through nodes, left and right GT-polygons are defined for each chain element and are consistent throughout, and the chains representing the limits of the file (neatline) are free of gaps. The tests of logical consistency are performed using vendor software. The neatline is generated by connecting the explicitly entered four corners of the digital file. All data outside the enclosed region are ignored and all data crossing these geographically straight lines are clipped at the neatline. Data within a specified tolerance of the neatline are snapped to the neatline. Neatline straightening aligns the digitized edges of the digital data with the generated neatline (i.e., with the longitude/latitude lines in geographic coordinates). All internal polygons are tested for closure with vendor software and are checked on hard copy plots. All data are checked for common soil lines (i.e., adjacent polygons with the same label). Quadrangles are edge matched within the state, merged into a statewide data sets, and then edge matched to adjacent state data sets. Edge locations do not deviate from centerline to centerline by more than 0.01 inch.</gco:CharacterString>
+					</measureDescription>
+				</DQ_ConceptualConsistency>
+			</report>
+			<report>
+				<DQ_CompletenessOmission>
+					<measureDescription>
+						<gco:CharacterString>A map unit is a collection of areas defined and named the same in terms of their soil and/or nonsoil areas. Each map unit differs in some respect from all others in a survey area and is uniquely identified. Each individual area is a delineation. Each map unit in the Digital General Soil Map of U.S. consists of one to more than 21 components. In those few areas where detailed maps did not exist, reconnaissance soil surveys were combined with data on geology, topography, vegetation, climate, and remote sensing images to delineate map units and estimate the percentages of components. Map unit components in this product are soil series phases, and their percent composition represents the estimated areal proportion of each within a map unit. The composition for a map unit is generalized to represent the statewide extent of that map unit and not the extent of any single map unit delineation. These specifications provide a nationally consistent representation of the associated attribute data. The actual composition and interpretive purity of the map unit delineations were based on statistical analysis of transect data. The composition was largely determined by measuring transects on detailed soil survey maps. The number of transects used was proportional to the relative size, number, and complexity of the delineations. The combined data on the length of the map units crossed by the transects were used to determine the percentages of the different soil and nonsoil areas in each map unit. Specific National Cooperative Soil Survey Standards and procedures were used in the classification of soils, design and name of map units. These standards are outlined in U.S. Department of Agriculture. 2nd Ed., 1999. Soil Taxonomy: A basic system of soil classification for making and interpreting soil surveys. Nat. Res. Conserv. Serv., U.S. Dep. Agric. Handb. 436.; U.S. Department of Agriculture. 9th Ed., 2003. Keys to Soil Taxonomy. Soil Surv. staff, Nat. Res. Conserv. Serv.; U.S. Department of Agriculture. Current Issue. National Soil Survey Handbook, title 430-VI. Soil Surv. Staff, Nat. Res. Conserv. Serv.; and U.S. Department of Agriculture. 1993. Soil Survey Manual. Soil Surv. Staff, U.S. Dep. Agric. Handbook 18. Adherence to National Cooperative Soil Survey standards and procedures is based on peer review, quality control, and quality assurance. Quality control is outlined in documents that reside with the Natural Resources Conservation Service state soil scientist.</gco:CharacterString>
+					</measureDescription>
+				</DQ_CompletenessOmission>
+			</report>
+			<report>
+				<DQ_QuantitativeAttributeAccuracy>
+					<measureDescription>
+						<gco:CharacterString>Accuracy is tested by manual comparison of the source with hard copy plots and/or symbolized display of the map data on an interactive computer graphic system. Selected attributes that cannot be visually verified on plots or on screen are interactively queried and verified on screen. In addition, the attributes are tested against a master set of valid attributes. All attribute data conform to the attribute codes in the signed classification and correlation document and amendments and are current as of the date of digitizing.</gco:CharacterString>
+					</measureDescription>
+					<result gco:nilReason="missing"/>
+				</DQ_QuantitativeAttributeAccuracy>
+			</report>
+			<report>
+				<DQ_AbsoluteExternalPositionalAccuracy>
+					<measureDescription>
+						<gco:CharacterString>The accuracy of these digital data is based upon their compilation to base maps that meet National Map Accuracy Standards. The difference in positional accuracy between the map unit boundaries in the field and their digitized map locations is unknown. The locational acuracy of soil delineations on the ground varies with the transition between map units. For example, in areas where changes in soils, climate, topography, and geology occur subtly across a portion of a state, the transition between soil map unit boundaries will be gradual. Where these features change abruptly, such as from an area of foothills to a lake plain, the transition will be very narrow. Soil delineation boundaries were digitized within 0.01 inches of their locations on the digitizing source. The digital map elements are edge matched between data sets. The data along each state boundary are matched against the data for the adjacent state. Edge locations generally do not deviate from centerline to centerline by more than 0.01 inch.</gco:CharacterString>
+					</measureDescription>
+					<result gco:nilReason="missing"/>
+				</DQ_AbsoluteExternalPositionalAccuracy>
+			</report>
+			<lineage>
+				<LI_Lineage>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>The Natural Resources Conservation Service State Soil Scientist or delegate, upon completion of data quality verification, determined that the tabular data should be released for official use. A selected set of map units and components in the soil survey legend was copied to a staging database, and rating values for selected interpretations were generated. The list of selected interpretations is stored in the database table named sainterp.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2005-07-15T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>The Natural Resources Conservation Service State Soil Scientist or delegate, upon completion of data quality verification, determined that the tabular data should be released for official use. A selected set of map units and components in the soil survey legend was copied to a staging database, and rating values for selected interpretations were generated. The list of selected interpretations is stored in the database table named sainterp.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2006-06-28T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>The tabular data were extracted from the Soil Data Mart without change. The spatial data was exported to an ESRI shapefile.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2005-07-18T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>Soil map unit lines and symbols were drafted in red pencil on a mylar overlay that was punch registered to fit the mylar USGS 1:250,000-scale topographic quadrangle. A detailed and complete edit was performed on all overlays before digitizing. The soil delineation overlays were raster scanned at a scanning resolution of at least 0.01 inches and converted to a vector format or were manually digitized on a digitizing tablet with a resolution of at least 0.001 inches. Four control points corresponding to the four corners of the quadrangles were used for registration during data collection. The control points were either explicitly entered or developed by the software. The data sets were edge matched and merged into statewide coverages. A detailed and complete edit was performed on all digital data.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>1994-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>The Natural Resources Conservation Service State Soil Scientist or delegate verified that the labels on the digitized soil map units link to map units in the tabular database, and certified the joined data sets for release to the Soil Data Warehouse. A system assigned version number and date stamp were added and the data were copied to the data warehouse. The tabular data for the map units and components were extracted from the data warehouse and reformatted into the soil data delivery data model, then stored in the Soil Data Mart. The spatial data were copied to the Soil Data Mart without change.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2006-06-29T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>The Natural Resources Conservation Service State Soil Scientist or delegate verified that the labels on the digitized soil map units link to map units in the tabular database, and certified the joined data sets for release to the Soil Data Warehouse. A system assigned version number and date stamp were added and the data were copied to the data warehouse. The tabular data for the map units and components were extracted from the data warehouse and reformatted into the soil data delivery data model, then stored in the Soil Data Mart. The spatial data were copied to the Soil Data Mart without change.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2005-07-15T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>Dataset renamed from STATSGO2.shp to Arizona_STATSGOv2-3-2_2006.shp by Ben Hickson with the University of Arizona Library. Metadata fields corresponding the Open Geoportal Working Group Best Practices Guide (http://opengeoportal.org/working-groups/metadata/) were also updated.</gco:CharacterString>
+							</description>
+							<dateTime/>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>State coverages were merged into a seamless national coverage. This reduced tabular data redundancy and polygon number. A detailed and complete edit was performed on all digital data.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2000-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>Map unit composition was determined by transecting or sampling areas on the more detailed soil maps and expanding the data statistically to characterize the whole map unit.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>1994-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>The National Soil Information System data base was developed by Natural Resources Conservation Service soil scientists according to national standards.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2005-01-01T00:00:00</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>attribute (tabular) information</gco:CharacterString>
+							</description>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>National Soil Information System (NASIS) data base</gco:CharacterString>
+									</title>
+									<alternateTitle>
+										<gco:CharacterString>NASIS</gco:CharacterString>
+									</alternateTitle>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>2005-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>U.S. Department of Agriculture, Natural Resources Conservation Service</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>U.S. Department of Agriculture, Natural Resources Conservation Service</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent/>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>source material of soil map unit delineations and soil symbols</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>250000</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>State Soil Geographic (STATSGO) data base</gco:CharacterString>
+									</title>
+									<alternateTitle>
+										<gco:CharacterString>SCS4</gco:CharacterString>
+									</alternateTitle>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>1994-01-01</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>U.S. Department of Agriculture, Natural Resources Conservation Service</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>1994</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_dd08e93a75110032e4ba905d7f3a4cf">
+													<gml:timePosition>1994-01-01</gml:timePosition>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>base materials for compilation of map unit delineation linework</gco:CharacterString>
+							</description>
+							<scaleDenominator>
+								<MD_RepresentativeFraction>
+									<denominator>
+										<gco:Integer>250000</gco:Integer>
+									</denominator>
+								</MD_RepresentativeFraction>
+							</scaleDenominator>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>multiple maps</gco:CharacterString>
+									</title>
+									<alternateTitle>
+										<gco:CharacterString>USGS1</gco:CharacterString>
+									</alternateTitle>
+									<date>
+										<CI_Date>
+											<date/>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+									<presentationForm>
+										<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapHardcopy" codeSpace="ISOTC211/19115">mapHardcopy</CI_PresentationFormCode>
+									</presentationForm>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_ea982ae871bb631a3c001aaf43c5468c">
+													<gml:timePosition/>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>reference information for development of map unit delineations and transect data for naming map units where detailed surveys did not exist</gco:CharacterString>
+							</description>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>multiple reconnaissance, county, and State general soil maps</gco:CharacterString>
+									</title>
+									<alternateTitle>
+										<gco:CharacterString>SCS2</gco:CharacterString>
+									</alternateTitle>
+									<date>
+										<CI_Date>
+											<date/>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>U.S. Government Printing Office</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>U.S Department of Agriculture, Natural Resources Conservation Service</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+									<presentationForm>
+										<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapHardcopy" codeSpace="ISOTC211/19115">mapHardcopy</CI_PresentationFormCode>
+									</presentationForm>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_8b4ae9e8f83af0a6ee63f80962ff455c">
+													<gml:timePosition/>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>digitizing source</gco:CharacterString>
+							</description>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>multiple compiled mylar overlays of map unit delineations, unpublished</gco:CharacterString>
+									</title>
+									<alternateTitle>
+										<gco:CharacterString>SCS3</gco:CharacterString>
+									</alternateTitle>
+									<date>
+										<CI_Date>
+											<date/>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>U.S Department of Agriculture, Natural Resources Conservation Service</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>unknown</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_bc499231f294929b78f6196aad5ffece">
+													<gml:timePosition/>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+					<source>
+						<LI_Source>
+							<description>
+								<gco:CharacterString>base information for development of map unit delineations and transect data for naming map units</gco:CharacterString>
+							</description>
+							<sourceCitation>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>multiple soil survey publications</gco:CharacterString>
+									</title>
+									<alternateTitle>
+										<gco:CharacterString>SCS1</gco:CharacterString>
+									</alternateTitle>
+									<date>
+										<CI_Date>
+											<date/>
+											<dateType>
+												<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>U.S Department of Agriculture, Natural Resources Conservation Service</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+									<citedResponsibleParty>
+										<CI_ResponsibleParty>
+											<organisationName>
+												<gco:CharacterString>U.S. Government Printing Office</gco:CharacterString>
+												<!-- WARNING: translation from FGDC is ambiguous, this may require correction -->
+											</organisationName>
+											<role>
+												<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+											</role>
+										</CI_ResponsibleParty>
+									</citedResponsibleParty>
+									<presentationForm>
+										<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapHardcopy" codeSpace="ISOTC211/19115">mapHardcopy</CI_PresentationFormCode>
+									</presentationForm>
+								</CI_Citation>
+							</sourceCitation>
+							<sourceExtent>
+								<EX_Extent>
+									<description>
+										<gco:CharacterString>publication date</gco:CharacterString>
+									</description>
+									<temporalElement>
+										<EX_TemporalExtent>
+											<extent>
+												<gml:TimeInstant gml:id="_defbc72e5da37d5d0399668ef0f7a54">
+													<gml:timePosition/>
+												</gml:TimeInstant>
+											</extent>
+										</EX_TemporalExtent>
+									</temporalElement>
+								</EX_Extent>
+							</sourceExtent>
+						</LI_Source>
+					</source>
+				</LI_Lineage>
+			</lineage>
+		</DQ_DataQuality>
+	</dataQualityInfo>
+	<referenceSystemInfo>
+		<MD_ReferenceSystem>
+			<referenceSystemIdentifier>
+				<RS_Identifier>
+					<code>
+						<gco:CharacterString>WGS 84 (EPSG:4326)</gco:CharacterString>
+					</code>
+					<codeSpace>
+						<gco:CharacterString>EPSG</gco:CharacterString>
+					</codeSpace>
+					<version>
+						<gco:CharacterString>7.9</gco:CharacterString>
+					</version>
+				</RS_Identifier>
+			</referenceSystemIdentifier>
+		</MD_ReferenceSystem>
+	</referenceSystemInfo>
+	<dataSetURI>
+		<gco:CharacterString>http://dx.doi.org/10.2458/azu_geo_arizona_statsgov2-3-2_2006</gco:CharacterString>
+	</dataSetURI>
+</MD_Metadata>

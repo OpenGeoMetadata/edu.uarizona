@@ -1,0 +1,42 @@
+{
+    "layer_slug_s": "uarizona-arizona-groundsubsidence-2014",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_arizona_groundsubsidence_2014",
+    "dc_title_s": "Areas of Land Subsidence, Arizona, 2014",
+    "dc_description_s": "The Arizona Department of Water Resources Geophysics/Surveying Unit has been collecting and processing Interferometric Synthetic Aperature Radar (InSAR) data since 2005 to monitor land subsidence across the State of Arizona. Statewide land subsidence features were identified using the ERS-1, ERS-2, Radarsat-2, EnviSat, ALOS-1, and Radarsat-2 Satellites and are updated to 2014. Updated May 29, 2014.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/pQ6/76v/r4/8g/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:Arizona_GroundSubsidence_2014",
+    "dct_isPartOf_sm": [
+        "General"
+    ],
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2017-08-16T16:31:34Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "Arizona Department of Water Resources",
+    "dc_creator_sm": "Arizona. Department of Water Resources",
+    "dc_subject_sm": [
+        "Elevation",
+        "Environment",
+        "Geoscientific Information"
+    ],
+    "dct_issued_s": "2015-02-02T:00:00:00",
+    "dct_temporal_sm": "2014-05-29T00:00:00",
+    "dct_spatial_sm": [
+        "Navajo County",
+        "State of Arizona",
+        "Pima County",
+        "Pinal County",
+        "La Paz County",
+        "Hidalgo County",
+        "Cochise County",
+        "Graham County",
+        "Maricopa County",
+        "Yavapai County"
+    ],
+    "solr_geom": "ENVELOPE(-113.84411, -109.028341, 34.92906, 31.635822)",
+    "solr_year_i": "2014",
+    "geoblacklight_version": "1.0"
+}

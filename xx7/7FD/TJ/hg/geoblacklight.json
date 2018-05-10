@@ -1,0 +1,36 @@
+{
+    "layer_slug_s": "uarizona-arizona-lakes-1974",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_arizona_lakes_1974",
+    "dc_title_s": "Lakes, Arizona, 1974",
+    "dc_description_s": "Hydro polygon features in the State of Arizona with an emphasis on lakes, ponds and reservoirs. This polygon cover consists of all the lakes and bounded water bodies in Arizona as well as the Colorado River. This dataset was digitized from the 1:500,000 scale, 'Hydrologic Unit Map - 1974, State of Arizona', by the U.S. Dept. of the Interior and U.S. Dept. of the Army.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/xx7/7FD/TJ/hg/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:Arizona_Lakes_1974",
+    "dct_isPartOf_sm": [
+        "General"
+    ],
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2017-08-16T16:31:57Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "Arizona State Land Department",
+    "dc_creator_sm": "Arizona. State Land Department",
+    "dc_subject_sm": [
+        "farming",
+        "Common-use word or phrase used to describe the subject of the data set. REQUIRED.",
+        "inlandWater",
+        "environment",
+        "Farming",
+        "Environment"
+    ],
+    "dct_issued_s": "1993-12-31T:00:00:00",
+    "dct_temporal_sm": "1974",
+    "dct_spatial_sm": [
+        "State of Arizona"
+    ],
+    "solr_geom": "ENVELOPE(-115.015921, -108.955345, 37.01312, 31.278728)",
+    "solr_year_i": "1974",
+    "geoblacklight_version": "1.0"
+}

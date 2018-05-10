@@ -1,0 +1,33 @@
+{
+    "layer_slug_s": "uarizona-arizona-meannumdayssnowfall5-1961to1990",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_arizona_meannumdayssnowfall5_1961to1990",
+    "dc_title_s": "Mean Number of Days with Measurable Snowfall > 5.0 inches, Arizona, 1961-1990",
+    "dc_description_s": "This element was computed using snowfall data from the National Climatic Data Center's United States Snow Climatology (TD-9641M) database (NCDC, 1999c). The original snowfall data is given to a tenth of an inch. This element is given as the number of whole days. The 29-year mean of the number of days with snowfall at or above the four thresholds: 0.1 inch, 1.0 inch, 5.0, inches and 10.0 inches were computed for the snow season, August 1 - July 31. The first snow season commenced on August 1, 1961 and the last snow season ended on July 31, 1990. Data extracted for Arizona and 25 mile buffer.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/xIz/E3S/4T/lj/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:Arizona_MeanNumDaysSnowfall5_1961to1990",
+    "dct_isPartOf_sm": [
+        "General"
+    ],
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2017-08-16T16:32:32Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "National Climatic Data Center (U.S.)",
+    "dc_creator_sm": "National Climatic Data Center (U.S.)",
+    "dc_subject_sm": [
+        "Daily snowfall rates",
+        "climatologyMeterologyAtmosphere",
+        "climatologyMeteorologyAtmosphere"
+    ],
+    "dct_issued_s": "1999-01-01T:00:00:00",
+    "dct_temporal_sm": "1961",
+    "dct_spatial_sm": [
+        "State of Arizona"
+    ],
+    "solr_geom": "ENVELOPE(-115.48444, -108.4506, 37.40196, 31.198581)",
+    "solr_year_i": "1961",
+    "geoblacklight_version": "1.0"
+}

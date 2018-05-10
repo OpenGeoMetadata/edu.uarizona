@@ -1,0 +1,33 @@
+{
+    "layer_slug_s": "uarizona-arizona-annmeandewpttemp-1961to1990",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_arizona_annmeandewpttemp_1961to1990",
+    "dc_title_s": "Annual Mean Dew Point Temperature, Arizona, 1961-1990",
+    "dc_description_s": "This element was computed using data from the National Climatic Data Center's Surface Airways Hourly (TD-3280) database (NOAA, 2000a). The original data is in whole degrees Fahrenheit. This element is computed to tenths of a degree Fahrenheit. The mean monthly values were computed by taking the 30-year mean of the monthly means. The monthly means were computed from the daily values. The mean annual value was computed by taking the 30-year mean of the yearly means. The yearly means were computed by averaging their 12 monthly mean values. Data extracted for Arizona and 25 mile buffer.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/pWK/YR6/CW/RY/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:Arizona_AnnMeanDewPtTemp_1961to1990",
+    "dct_isPartOf_sm": [
+        "General"
+    ],
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2017-08-16T16:30:15Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "National Climatic Data Center (U.S.)",
+    "dc_creator_sm": "National Climatic Data Center (U.S.)",
+    "dc_subject_sm": [
+        "climatologyMeterologyAtmosphere",
+        "Dew point",
+        "climatologyMeteorologyAtmosphere"
+    ],
+    "dct_issued_s": "2000-01-01T:00:00:00",
+    "dct_temporal_sm": "1961",
+    "dct_spatial_sm": [
+        "State of Arizona"
+    ],
+    "solr_geom": "ENVELOPE(-115.484518, -108.450607, 37.40196, 31.191246)",
+    "solr_year_i": "1961",
+    "geoblacklight_version": "1.0"
+}

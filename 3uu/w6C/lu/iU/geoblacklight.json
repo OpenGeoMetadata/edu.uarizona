@@ -1,0 +1,32 @@
+{
+    "layer_slug_s": "uarizona-arizona-interstates-1988",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_arizona_interstates_1988",
+    "dc_title_s": "Interstate Highways, Arizona, 1988",
+    "dc_description_s": "This data set consists of all interstate highways in Arizona. Converted in the fall of 1988 from the DLG to ARC format. This dataset was created by extracting segments coded as interstate highways from individual blocks of DLG data. The resultant interstate blocks were appended together to create a single data set. An item named CLASS,1,I was added and was calculated for ease of use.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/3uu/w6C/lu/iU/iso19139.html\"}",
+    "layer_id_s": "UniversityLibrary:Arizona_Interstates_1988",
+    "dct_isPartOf_sm": [
+        "General"
+    ],
+    "layer_geom_type_s": "Line",
+    "layer_modified_dt": "2017-08-16T16:31:51Z",
+    "dc_format_s": "Shapefile",
+    "dc_language_s": "eng",
+    "dc_type_s": "Dataset",
+    "dc_publisher_s": "Arizona State Land Department, Arizona Land Resources Information System",
+    "dc_creator_sm": "Arizona. State Land Department",
+    "dc_subject_sm": [
+        "Common-use word or phrase used to describe the subject of the data set. REQUIRED.",
+        "Transportation"
+    ],
+    "dct_issued_s": "1988-01-01T:00:00:00",
+    "dct_temporal_sm": "1988",
+    "dct_spatial_sm": [
+        "State of Arizona"
+    ],
+    "solr_geom": "ENVELOPE(-114.804954, -108.933231, 37.029006, 31.283593)",
+    "solr_year_i": "1988",
+    "geoblacklight_version": "1.0"
+}
