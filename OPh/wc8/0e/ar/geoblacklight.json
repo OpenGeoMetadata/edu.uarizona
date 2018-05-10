@@ -5,7 +5,7 @@
     "dc_description_s": "The data provide base information for use in GIS systems to aid in assessment for a variety of planning and analysis purposes and to provide a geographic view with corresponding data. These data do not represent a legal record. According to ARS 45-402(13) \"Groundwater basin\" means an area which, as nearly as known facts permit as determined by the director pursuant to this chapter, may be designated so as to enclose a relatively hydrologically distinct body or related bodies of groundwater, which shall be described horizontally by surface description. ADWR Groundwater Basins include the five Active Management Areas (AMAs) and three Irrigation Non-Expansion(INAs). You can also query the attributes to obtain the planning areas that are found in the ADWR Water Atlas.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/OPh/wc8/0e/ar/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/OPh/wc8/0e/ar/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_GroundwaterBasins_2015",
     "dct_isPartOf_sm": [
         "General"

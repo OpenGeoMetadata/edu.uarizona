@@ -5,7 +5,7 @@
     "dc_description_s": "This is a georeferenced dataset of contemporary Chinese Buddhist sites based on a Chinese directory published in 2006. The source data is based on Gui Weibing \u6842\u672a\u51b0 (ed.), Zhongguo Fojiao siyuan minglu 2006 \u4e2d\u56fd\u4f5b\u6559\u5bfa\u9662\u540d\u5f55 (2006). Hong Kong: Zhonghua fojiao chubanshe, 2006. Coordinates were determined by the research team led by Prof. Ge Jianxiong \u845b\u5251\u96c4at Fudan University in 2008. (Note: coordinates were not obtained from Google sources).Version 1.1 updates previous version 1.0 which was edited and prepared by Jiang Wu in 2010. This new version corrects mistakes and typos in the previous version with the help of Ouyang Nan.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/7Vf/vy0/mN/4U/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/7Vf/vy0/mN/4U/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:China_BuddhistTempleLocations_2006",
     "dct_isPartOf_sm": [
         "BGIS"
@@ -18,15 +18,15 @@
     "dc_publisher_s": "Jiang Wu, University of Arizona",
     "dc_creator_sm": "Jiang Wu, University of Arizona",
     "dc_subject_sm": [
+        "Association",
+        "Monastery",
+        "Chinese",
+        "Religious",
+        "Temple",
+        "Cave",
+        "Chaple",
         "Buddhist",
         "House",
-        "Chinese",
-        "Monastery",
-        "Temple",
-        "Chaple",
-        "Religious",
-        "Association",
-        "Cave",
         "Society"
     ],
     "dct_issued_s": "9999-01-01T:00:00:00",

@@ -5,7 +5,7 @@
     "dc_description_s": "Index Grids, This statewide data set consists of polygons representing the 1:250,000 USGS Quad boundaries spanning Arizona. The Lat/Long grid has a cell size of 2 degree Longitude x 1 degree Latitude and covers an area equal to 128 USGS 7.5 minute quadrangles. Each polygon (quad) contains an attribute for the quad number, using the ALRIS quad numbering system",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/070/XkB/VY/2D/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/070/XkB/VY/2D/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_QuadranglesGrid_2002",
     "dct_isPartOf_sm": [
         "General"
@@ -19,9 +19,9 @@
     "dc_creator_sm": "Arizona. State Land Department",
     "dc_subject_sm": [
         "quadrangle boundaries",
+        "quads",
         "coordinate frame",
         "topos",
-        "quads",
         "Location",
         "Boundaries",
         "Environment"
@@ -29,8 +29,8 @@
     "dct_issued_s": "2002-01-01T:00:00:00",
     "dct_temporal_sm": "2002-12-31T00:00:00",
     "dct_spatial_sm": [
-        "State of Arizona",
-        "Arizona"
+        "Arizona",
+        "State of Arizona"
     ],
     "solr_geom": "ENVELOPE(-115.103134, -108.856194, 37.166206, 31.193136)",
     "solr_year_i": "2002",

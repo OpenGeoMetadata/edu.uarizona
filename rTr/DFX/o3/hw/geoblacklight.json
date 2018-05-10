@@ -5,7 +5,7 @@
     "dc_description_s": "This statewide coverage consists of several major soils and some minor soils groups. Digitized at 1:1,000,000 scale, 'General Soil Map - 1975', by U.S. Dept. of Agriculture - Soil Conservation Service and Univ. of Arizona Experimental Station.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/rTr/DFX/o3/hw/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/rTr/DFX/o3/hw/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_GeneralSoilGroups_1975",
     "dct_isPartOf_sm": [
         "General"

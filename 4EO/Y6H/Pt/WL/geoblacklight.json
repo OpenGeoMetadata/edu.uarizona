@@ -5,7 +5,7 @@
     "dc_description_s": "Dataset depicts EPA Superfund sites throughout Arizona. This dataset was created from the CERLIS database. CERCLIS is a national computerized management information system that automates entry, updating, and retrieval of Comprehensive Environmental Response, Compensation, and Liability Information System data and tracks site and non-site specific Superfund data in support of the Comprehensive Environmental Response, Compensation, and Liability Act. It contains information on hazardous waste site assessment and remediation. For distribution with BASINS v.2.0, the spatial attributes of the database were prepared in Arcview shape file format while selected relational attributes were prepared in Arcview DBF file format.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/4EO/Y6H/Pt/WL/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/4EO/Y6H/Pt/WL/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_EPASuperfund_1997",
     "dct_isPartOf_sm": [
         "General"
@@ -18,8 +18,8 @@
     "dc_publisher_s": "U.S. Environmental Protection Agency",
     "dc_creator_sm": "United States. Environmental Protection Agency.",
     "dc_subject_sm": [
-        "CERCLIS Sites",
         "National Priority List (NPL)",
+        "CERCLIS Sites",
         "Society",
         "Health",
         "Environment"

@@ -5,7 +5,7 @@
     "dc_description_s": "This coverage consists of spring locations in Arizona. This data set incorporates information extracted from both the USGS Geonames database and the USGS Digital Line Graphs (DLG)s.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/nFt/0ES/jF/v4/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/nFt/0ES/jF/v4/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_Springs_2000",
     "dct_isPartOf_sm": [
         "General"
@@ -19,9 +19,9 @@
     "dc_creator_sm": "Arizona. State Land Department",
     "dc_subject_sm": [
         "geoscientificInformation",
-        "Common-use word or phrase used to describe the subject of the data set. REQUIRED.",
-        "inlandWater",
         "environment",
+        "inlandWater",
+        "Common-use word or phrase used to describe the subject of the data set. REQUIRED.",
         "Environment",
         "Geoscientific Information"
     ],

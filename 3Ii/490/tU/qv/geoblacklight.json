@@ -5,7 +5,7 @@
     "dc_description_s": "Riparian vegetation associated with perennial waters of Arizona. The dataset was created using two major sources of imagery - Landsat Thematic Mapper digital satellite data and Multiple Resolution Aerial Videography.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/3Ii/490/tU/qv/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/3Ii/490/tU/qv/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_Riparian_1993",
     "dct_isPartOf_sm": [
         "General"
@@ -18,19 +18,19 @@
     "dc_publisher_s": "Arizona State Land Department",
     "dc_creator_sm": "Arizona. Game and Fish Department",
     "dc_subject_sm": [
-        "environment",
-        "biota",
         "inlandWater",
-        "riparian",
         "vegetation",
+        "biota",
+        "riparian",
+        "environment",
         "Biota",
         "Environment"
     ],
     "dct_issued_s": "1994-01-01T:00:00:00",
     "dct_temporal_sm": "1993",
     "dct_spatial_sm": [
-        "State of Arizona",
-        "Arizona"
+        "Arizona",
+        "State of Arizona"
     ],
     "solr_geom": "ENVELOPE(-114.930396, -108.952907, 37.032804, 31.281465)",
     "solr_year_i": "1993",

@@ -5,7 +5,7 @@
     "dc_description_s": "This coverage depicts the road network on the Apache-Sitgreaves National Forest, Coconino National Forest, Coronado National Forest, Kaibab National Forest, Prescott National Forest, and the Tonto National Forest and is part of the USFS Southwestern Region Core Data Project. This project is designed to generate and maintain 15 vertically integrated resource data layers which are standardized across the Southwestern Region. These 15 layers are derived from a Master Arc coverage which maintains vertical integration.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/iGW/iQx/72/o1/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/iGW/iQx/72/o1/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_USFSRoads_2000",
     "dct_isPartOf_sm": [
         "General"
@@ -18,9 +18,9 @@
     "dc_publisher_s": "USDA Forest Service",
     "dc_creator_sm": "United States. Forest Service.",
     "dc_subject_sm": [
-        "pavement",
         "transportation",
         "route",
+        "pavement",
         "road",
         "Planning Cadastre",
         "Transportation"
@@ -28,8 +28,8 @@
     "dct_issued_s": "2003-05-05T:00:00:00",
     "dct_temporal_sm": "1991",
     "dct_spatial_sm": [
-        "State of Arizona",
-        "arizona"
+        "arizona",
+        "State of Arizona"
     ],
     "solr_geom": "ENVELOPE(-113.149499, -108.655101, 37.007607, 31.23142)",
     "solr_year_i": "1991",

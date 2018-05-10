@@ -5,7 +5,7 @@
     "dc_description_s": "Statewide coverage of 1900 Places based on population data available from the U.S. Bureau of the Census. Population data is from the Twelfth Census of the United States (1900 Census of Population)",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/jsE/BwD/cb/Ds/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/jsE/BwD/cb/Ds/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_CensusPlaces_1900",
     "dct_isPartOf_sm": [
         "Arizona Census Places"
@@ -18,8 +18,8 @@
     "dc_publisher_s": "University of Arizona",
     "dc_creator_sm": "University of Arizona. Library",
     "dc_subject_sm": [
-        "Census, Places",
         "Population",
+        "Census, Places",
         "Society",
         "Planning Cadastre",
         "Boundaries"
@@ -27,8 +27,8 @@
     "dct_issued_s": "2007-01-01T:00:00:00",
     "dct_temporal_sm": "1900",
     "dct_spatial_sm": [
-        "State of Arizona",
-        "Arizona"
+        "Arizona",
+        "State of Arizona"
     ],
     "solr_geom": "ENVELOPE(-114.742494, -109.588642, 35.45865, 31.288921)",
     "solr_year_i": "1900",

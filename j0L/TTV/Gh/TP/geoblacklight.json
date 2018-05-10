@@ -5,7 +5,7 @@
     "dc_description_s": "A Groundwater Savings Facility (GSF) Permit (A.R.S. Section 45-812.01 ) allows the permit holder to deliver a renewable water supply, called \"in-lieu\" water, to a recipient who agrees to replace groundwater pumping with in lieu water, thus creating a groundwater savings. The recipient must agree in writing that for every gallon of in lieu water received, the recipient will reduce groundwater withdrawals from within an Active Management Area (AMA) or Irrigation Non-expansion Area (INA) by one gallon. Information regarding the criteria a facility must meet in order to be permitted as a GSF is included in A.R.S. Section 45-812.01.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/j0L/TTV/Gh/TP/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/j0L/TTV/Gh/TP/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_GSFs_2015",
     "dct_isPartOf_sm": [
         "General"
@@ -18,9 +18,9 @@
     "dc_publisher_s": "Arizona Department of Water Resources",
     "dc_creator_sm": "Arizona. Department of Water Resources",
     "dc_subject_sm": [
+        "inlandWater",
         "planningCadastre",
         "farming",
-        "inlandWater",
         "Farming",
         "Planning Cadastre"
     ],
@@ -28,10 +28,10 @@
     "dct_temporal_sm": "2015-06-03T00:00:00",
     "dct_spatial_sm": [
         "State of Arizona",
-        "Pima County",
+        "Maricopa County",
         "Pinal County",
         "Santa Cruz County",
-        "Maricopa County"
+        "Pima County"
     ],
     "solr_geom": "ENVELOPE(-113.283221, -110.930909, 33.68236, 31.920943)",
     "solr_year_i": "2015",

@@ -5,7 +5,7 @@
     "dc_description_s": "This element was computed using data from the National Climatic Data Center's U.S. National 1961-1990 Climate Normals (NOAA, 1994b). The original data is in whole degrees Fahrenheit. This element is given to whole degree days. Heating degree day values were derived from a base of 65 degrees Fahrenheit. Simple arithmetic procedures were not applied to obtain the heating degree day values. Instead, the rational conversion formulae developed by Thom (1954, 1966) were used. These formulae allow the adjusted mean temperature normals and their standard deviations to be converted to degree day normals with uniform consistency. In some cases this procedure will yield a small number of degree days for months when degree days may not otherwise be expected. This results from statistical considerations of the formulae. The annual degree day normals were calculated by adding the corresponding monthly degree day normals. Extracted for Arizona and 25 mile buffer.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/EvL/trl/8Z/ac/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/EvL/trl/8Z/ac/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_AnnMeanTotalHeatingDegreeDays_1961to1990",
     "dct_isPartOf_sm": [
         "General"
@@ -18,8 +18,8 @@
     "dc_publisher_s": "National Climatic Data Center (U.S.)",
     "dc_creator_sm": "National Climatic Data Center (U.S.)",
     "dc_subject_sm": [
-        "climatologyMeterologyAtmosphere",
         "Heating degree days",
+        "climatologyMeterologyAtmosphere",
         "climatologyMeteorologyAtmosphere"
     ],
     "dct_issued_s": "1994-01-01T:00:00:00",

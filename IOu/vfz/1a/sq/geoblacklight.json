@@ -5,7 +5,7 @@
     "dc_description_s": "This element was computed using snowfall data from the National Climatic Data Center's United States Snow Climatology (TD-9641M) database (NCDC, 1999c). The original snowfall data is given to a tenth of an inch. This element is given as the number of whole days. The 29-year mean of the number of days with snowfall at or above the four thresholds: 0.1 inch, 1.0 inch, 5.0, inches and 10.0 inches were computed for the snow season, August 1 - July 31. The first snow season commenced on August 1, 1961 and the last snow season ended on July 31, 1990. Data extracted for Arizona and 25 mile buffer.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/IOu/vfz/1a/sq/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/IOu/vfz/1a/sq/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_MeanNumDaysSnowfall1_1961to1990",
     "dct_isPartOf_sm": [
         "General"

@@ -5,7 +5,7 @@
     "dc_description_s": "Data layer depicts all rivers and streams. Converted in the fall of 1988 from USGS 1:100,000 scale DLG data to ARC format. Since then, multiple and extensive corrections have taken place. Early on, several Arizona agencies were part of rectification including: attributes, features, edgematching and the re-tiling of the data into the USGS Hydrologic Unit Code (HUC) library tiling format. The Environmental Protection Agency (EPA) has since added critical attributes to the Arizona database, including: A nationally recognized management link code (the Reach Id), names, and hydrologic information. Arizona has enhanced the theme further by adding ergonomic Descriptive Attribute Codes, Cartographic Order, more Names, and intense Quality Assurance Controls.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/Z62/RLq/hV/9H/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/Z62/RLq/hV/9H/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_Rivers_1993",
     "dct_isPartOf_sm": [
         "General"
@@ -18,13 +18,13 @@
     "dc_publisher_s": "Arizona State Land Department",
     "dc_creator_sm": "Arizona. State Land Department",
     "dc_subject_sm": [
-        "environment",
-        "perennial waters",
         "streams",
+        "inlandWater",
+        "perennial waters",
         "geoscientificInformation",
         "biota",
+        "environment",
         "hydrography",
-        "inlandWater",
         "Biota",
         "Geoscientific Information",
         "Environment",
@@ -33,10 +33,10 @@
     "dct_issued_s": "1998-01-01T:00:00:00",
     "dct_temporal_sm": "1993",
     "dct_spatial_sm": [
+        "USA",
         "AZ",
-        "State of Arizona",
         "Arizona",
-        "USA"
+        "State of Arizona"
     ],
     "solr_geom": "ENVELOPE(-115.028025, -108.916975, 37.040229, 31.278422)",
     "solr_year_i": "1993",

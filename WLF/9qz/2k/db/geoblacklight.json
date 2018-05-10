@@ -5,7 +5,7 @@
     "dc_description_s": "Depicts geographic boundaries of various land ownership. Ownership holders include Bureau of Land Management, State Trust Land, Private Land, National Parks, BLM, Indian Reservations, National Monuments, and National Recreation Areas.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/WLF/9qz/2k/db/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/WLF/9qz/2k/db/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_LandOwnership_1988",
     "dct_isPartOf_sm": [
         "General"
@@ -26,8 +26,8 @@
     "dct_issued_s": "1988-01-01T:00:00:00",
     "dct_temporal_sm": "1988",
     "dct_spatial_sm": [
-        "State of Arizona",
-        "Arizona"
+        "Arizona",
+        "State of Arizona"
     ],
     "solr_geom": "ENVELOPE(-115.027291, -108.914335, 37.039202, 31.277136)",
     "solr_year_i": "1988",

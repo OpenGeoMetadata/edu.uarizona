@@ -5,7 +5,7 @@
     "dc_description_s": "This is a georeferenced dataset of Chinese Buddhist sites existing during the Tang Dynasty and is based on a Chinese directory published in 2006. The source data is based on Li Fangmin\u674e\u82b3\u6c11, Tang Wudai Fosi jikao\u5510\u4e94\u4ee3\u4f5b\u5bfa\u8f2f\u8003 (Collection and Investigation of Buddhist Monasteries in the Tang and Five Dynasties). Beijing: Shangwu yinshu guan \u5546\u52a1\u5370\u4e66\u9986, 2006. The release of this dataset has been authorized by the author Li Fangmin and the Commerical Press (Shangwu yinshu guan) through Jiang Wu. Authorization documents are available upon request.Version 1.1 updates the previous version 1.0 which was prepared by Jiang Wu in 2008. This new version corrects mistakes and typos in the previous version with the help of Ouyang Nan.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/d9B/5KZ/PM/Vh/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/d9B/5KZ/PM/Vh/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:China_TangBuddhistTempleLocations_618to907",
     "dct_isPartOf_sm": [
         "BGIS"
@@ -18,16 +18,16 @@
     "dc_publisher_s": "Jiang Wu, University of Arizona",
     "dc_creator_sm": "Jiang Wu, University of Arizona",
     "dc_subject_sm": [
+        "Association",
+        "Tang",
+        "Monastery",
+        "Chinese",
+        "Religious",
+        "Temple",
+        "Cave",
+        "Chaple",
         "Buddhist",
         "House",
-        "Chinese",
-        "Monastery",
-        "Temple",
-        "Religious",
-        "Tang",
-        "Chaple",
-        "Association",
-        "Cave",
         "Society"
     ],
     "dct_issued_s": "9999-01-01T:00:00:00",

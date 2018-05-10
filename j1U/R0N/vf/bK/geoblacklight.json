@@ -5,7 +5,7 @@
     "dc_description_s": "Statewide coverage of 1920 Census City Wards for Arizona. Wards were identified from textual descriptions of boundaries.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/j1U/R0N/vf/bK/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/j1U/R0N/vf/bK/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_Wards_1920",
     "dct_isPartOf_sm": [
         "General"
@@ -27,8 +27,8 @@
     "dct_issued_s": "2007-01-01T:00:00:00",
     "dct_temporal_sm": "1920",
     "dct_spatial_sm": [
-        "State of Arizona",
-        "Arizona"
+        "Arizona",
+        "State of Arizona"
     ],
     "solr_geom": "ENVELOPE(-110.982412, -109.522744, 32.239544, 31.33394)",
     "solr_year_i": "1920",

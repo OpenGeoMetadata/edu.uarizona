@@ -5,7 +5,7 @@
     "dc_description_s": "Statewide coverage of 1940 Census City Wards for Arizona. Wards were determined from textual descriptions of the boundaries.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/aVI/R0N/vd/bK/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/aVI/R0N/vd/bK/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_Wards_1940",
     "dct_isPartOf_sm": [
         "General"
@@ -18,8 +18,8 @@
     "dc_publisher_s": "University of Arizona",
     "dc_creator_sm": "University of Arizona. Library",
     "dc_subject_sm": [
-        "Census",
         "Population",
+        "Census",
         "Planning Cadastre",
         "Society",
         "Boundaries"
@@ -27,8 +27,8 @@
     "dct_issued_s": "2007-01-01T:00:00:00",
     "dct_temporal_sm": "1940",
     "dct_spatial_sm": [
-        "State of Arizona",
-        "Arizona"
+        "Arizona",
+        "State of Arizona"
     ],
     "solr_geom": "ENVELOPE(-112.485257, -109.482813, 34.559252, 31.333933)",
     "solr_year_i": "1940",

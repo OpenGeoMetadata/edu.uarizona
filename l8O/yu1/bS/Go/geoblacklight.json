@@ -5,7 +5,7 @@
     "dc_description_s": "This coverage shows known mineral deposit areas (KMDA's) in Arizona for locatable minerals. Locatable minerals include all that may be obtained by locating and perfecting mining claims under the General Mining Law of 1872. KMDAs are grouped into HIGH, MODERTE, and LOW categories.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/l8O/yu1/bS/Go/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/l8O/yu1/bS/Go/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_KMDA_1993",
     "dct_isPartOf_sm": [
         "General"
@@ -18,17 +18,17 @@
     "dc_publisher_s": "Arizona State Land Department",
     "dc_creator_sm": "Arizona. State Land Department",
     "dc_subject_sm": [
+        "AZKMDAALB",
         "Known mineral deposit areas (KMDA)",
         "Minerals",
-        "AZKMDAALB",
         "Geoscientific Information",
         "Environment"
     ],
     "dct_issued_s": "1993-01-01T:00:00:00",
     "dct_temporal_sm": "1993",
     "dct_spatial_sm": [
-        "State of Arizona",
-        "AZKMDAALB"
+        "AZKMDAALB",
+        "State of Arizona"
     ],
     "solr_geom": "ENVELOPE(-115.025973, -108.912937, 37.038919, 31.277561)",
     "solr_year_i": "1993",

@@ -5,7 +5,7 @@
     "dc_description_s": "Whenever appropriate, portions of this metadata were directly taken from the metadata of the original data set. RCRIS (Hazardous Waste - Violations and Permits Database) is a national computerized management information system in support of the Resource Conservation and Recovery Act (RCRA). RCRA requires that generators, transporters, treaters, storers, and disposers of hazardous waste provide information concerning their activities to state environmental agencies. For distribution with BASINS v.2.0, the spatial attributes of the database were prepared in Arcview shape file format while selected relational attributes were prepared in Arcview DBF file format.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/5St/at1/cI/lm/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/5St/at1/cI/lm/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:AZ-CA-NV_RCRISsites_1998",
     "dct_isPartOf_sm": [
         "General"
@@ -28,8 +28,8 @@
     "dct_temporal_sm": "1983",
     "dct_spatial_sm": [
         "State of California",
-        "State of Arizona",
-        "State of Nevada"
+        "State of Nevada",
+        "State of Arizona"
     ],
     "solr_geom": "ENVELOPE(-124.656025, -107.584391, 43.200094, 30.802282)",
     "solr_year_i": "1983",

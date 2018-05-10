@@ -5,7 +5,7 @@
     "dc_description_s": "A polyline depicting the approximate location of the Central Arizona Project Aqueduct from start at the diversion point on the Colorado river through to it's terminus in Pima County north of the City of Sahuarita.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/YC5/J7R/j9/zR/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/YC5/J7R/j9/zR/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_CAPAqueduct_2002",
     "dct_isPartOf_sm": [
         "General"
@@ -19,9 +19,9 @@
     "dc_creator_sm": "Central Arizona Project (U.S.)",
     "dc_subject_sm": [
         "Central Arizona Project",
-        "farming",
-        "utilitiesCommunication",
         "inlandWater",
+        "utilitiesCommunication",
+        "farming",
         "Farming",
         "utilitiesCommunication"
     ],
@@ -29,11 +29,11 @@
     "dct_temporal_sm": "2002",
     "dct_spatial_sm": [
         "State of Arizona",
-        "Pinal County",
-        "Central Arizona Project Aqueduct",
-        "Pima County",
         "Maricopa County",
-        "La Paz County"
+        "Pinal County",
+        "La Paz County",
+        "Pima County",
+        "Central Arizona Project Aqueduct"
     ],
     "solr_geom": "ENVELOPE(-114.104017, -110.99233, 34.329743, 31.963347)",
     "solr_year_i": "2002",

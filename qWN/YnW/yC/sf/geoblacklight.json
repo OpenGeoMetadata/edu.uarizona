@@ -5,7 +5,7 @@
     "dc_description_s": "This data set consists of general geologic formations throughout the State of Arizona.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/qWN/YnW/yC/sf/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/qWN/YnW/yC/sf/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_GeologicFormations_2000",
     "dct_isPartOf_sm": [
         "General"
@@ -18,16 +18,16 @@
     "dc_publisher_s": "Arizona State Land Department",
     "dc_creator_sm": "Arizona. State Land Department",
     "dc_subject_sm": [
-        "Formations",
         "Geology",
+        "Formations",
         "Environment",
         "Geoscientific Information"
     ],
     "dct_issued_s": "2000-08-01T:00:00:00",
     "dct_temporal_sm": "2000",
     "dct_spatial_sm": [
-        "State of Arizona",
-        "Arizona"
+        "Arizona",
+        "State of Arizona"
     ],
     "solr_geom": "ENVELOPE(-115.0209, -108.91663, 37.040211, 31.2743)",
     "solr_year_i": "2000",

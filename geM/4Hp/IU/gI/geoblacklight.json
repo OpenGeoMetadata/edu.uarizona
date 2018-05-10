@@ -5,7 +5,7 @@
     "dc_description_s": "The data set was computed using data from the National Climatic Data Center's Cooperative Summary of the Day (TD-3200) database (NCDC, 1995). The original data is in whole degrees Fahrenheit. This element is given as the number of whole days. The mean monthly values were computed by taking the 30-year mean of the count of days where the maximum temperature was at or above 90 degrees Fahrenheit for a given month. Daily maximum temperatures were the highest observed temperatures for the 24-hour period ending at the time of observation for a given station. The mean annual value was computed by taking the 30-year mean of the yearly means. The yearly means were computed by averaging their 12 monthly mean values. Data extracted for Arizona and 25 mile buffer.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/geM/4Hp/IU/gI/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/geM/4Hp/IU/gI/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_AnnMeanNumDaysTemp90DegF_1961to1990",
     "dct_isPartOf_sm": [
         "General"
@@ -18,8 +18,8 @@
     "dc_publisher_s": "National Climatic Data Center (U.S.)",
     "dc_creator_sm": "National Climatic Data Center (U.S.)",
     "dc_subject_sm": [
-        "climatologyMeterologyAtmosphere",
         "Temperature greater than 90 degrees",
+        "climatologyMeterologyAtmosphere",
         "climatologyMeteorologyAtmosphere"
     ],
     "dct_issued_s": "1990-01-01T:00:00:00",

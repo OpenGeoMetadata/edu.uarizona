@@ -5,7 +5,7 @@
     "dc_description_s": "This dataset offers supplementary info to the vegetation associations identified in CabezaPrietaNWR_Vegetation_2004.shp. The dataset depicts the routes travelled during field work mapping the vegetation associations of Sonoran Pronghorn habitat west of highway 85, north and west of Organ Pipe Cactus National Monument. This includes BLM Lands and the Cabeza Preita NWR. This dataset and other ancillary data can be found in the University of Arizona campus repository here: http://arizona.openrepository.com/arizona/handle/10150/128469/browse?type=title",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/w8N/Sef/hJ/9Q/iso19139.html\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/w8N/Sef/hJ/9Q/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:CabezaPrietaNWR_FieldWorkRoutes_2004",
     "dct_isPartOf_sm": [
         "Jim Malusa"
@@ -18,11 +18,11 @@
     "dc_publisher_s": "United States Geological Survey",
     "dc_creator_sm": "Jim Malusa, USGS",
     "dc_subject_sm": [
-        "wilderness",
-        "Sonoran Pronghorn",
         "bursage associations",
-        "Creosote associations",
+        "Sonoran Pronghorn",
+        "wilderness",
         "Vegetation Associations",
+        "Creosote associations",
         "Environment",
         "Biota"
     ],
@@ -31,12 +31,12 @@
     "dct_spatial_sm": [
         "Organ Pipe Cactus NM",
         "Ajo",
-        "Organ Pipe Cactus National Monument",
+        "Cabeza Prieta Wilderness",
+        "BLM",
+        "Cabeza Prieta NWR",
         "Southwestern Arizona",
         "Ajo, Arizona",
-        "BLM",
-        "Cabeza Prieta Wilderness",
-        "Cabeza Prieta NWR"
+        "Organ Pipe Cactus National Monument"
     ],
     "solr_geom": "ENVELOPE(-113.670916, -112.733969, 32.509018, 31.991555)",
     "solr_year_i": "2004",
