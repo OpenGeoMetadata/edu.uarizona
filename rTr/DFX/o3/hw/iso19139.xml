@@ -177,16 +177,6 @@
 			<descriptiveKeywords>
 				<MD_Keywords>
 					<keyword>
-						<gco:CharacterString>Common-use word or phrase used to describe the subject of the data set. REQUIRED.</gco:CharacterString>
-					</keyword>
-					<type>
-						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
-					</type>
-				</MD_Keywords>
-			</descriptiveKeywords>
-			<descriptiveKeywords>
-				<MD_Keywords>
-					<keyword>
 						<gco:CharacterString>State of Arizona</gco:CharacterString>
 					</keyword>
 					<type>
