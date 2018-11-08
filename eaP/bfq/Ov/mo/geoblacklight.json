@@ -5,7 +5,7 @@
     "dc_description_s": "Statewide coverage of 1970 Census County Subdivisions",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/eaP/bfq/Ov/mo/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/eaP/bfq/Ov/mo/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_CountySubdivisions_1970.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:Arizona_CountySubdivisions_1970",
     "dct_isPartOf_sm": [
         "Arizona County Subdivisions"

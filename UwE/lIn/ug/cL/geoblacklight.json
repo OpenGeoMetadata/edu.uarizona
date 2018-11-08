@@ -5,7 +5,7 @@
     "dc_description_s": "This is a statewide coverage of Indian reservation land in Arizona in 1994",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/UwE/lIn/ug/cL/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/UwE/lIn/ug/cL/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_NativeAmCommunities_1994.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:Arizona_NativeAmCommunities_1994",
     "dct_isPartOf_sm": [
         "General"

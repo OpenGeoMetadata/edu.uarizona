@@ -5,7 +5,7 @@
     "dc_description_s": "This data set consists of all interstate highways in Arizona. Converted in the fall of 1988 from the DLG to ARC format. This dataset was created by extracting segments coded as interstate highways from individual blocks of DLG data. The resultant interstate blocks were appended together to create a single data set. An item named CLASS,1,I was added and was calculated for ease of use.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/3uu/w6C/lu/iU/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/3uu/w6C/lu/iU/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_Interstates_1988.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:Arizona_Interstates_1988",
     "dct_isPartOf_sm": [
         "General"

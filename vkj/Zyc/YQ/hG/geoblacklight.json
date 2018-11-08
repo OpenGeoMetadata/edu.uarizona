@@ -5,7 +5,7 @@
     "dc_description_s": "A shapefile of all the wet and dry pts collected by volunteers during the 2011 Wet/Dry Mapping of the Agua Fria River. This datasets and other ancillary data can be found in the University of Arizona Campus Repository here: http://arizona.openrepository.com/arizona/handle/10150/188529",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/vkj/Zyc/YQ/hG/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/vkj/Zyc/YQ/hG/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/AguaFriaRiver_WetDryPoints_2011.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:AguaFriaRiver_WetDryPoints_2011",
     "dct_isPartOf_sm": [
         "Agua Fria River",

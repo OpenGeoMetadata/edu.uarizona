@@ -5,7 +5,7 @@
     "dc_description_s": "This dataset offers supplementary info to the vegetation associations identified in CabezaPrietaNWR_Vegetation_2004.shp. The dataset depicts the routes travelled during field work mapping the vegetation associations of Sonoran Pronghorn habitat west of highway 85, north and west of Organ Pipe Cactus National Monument. This includes BLM Lands and the Cabeza Preita NWR. This dataset and other ancillary data can be found in the University of Arizona campus repository here: http://arizona.openrepository.com/arizona/handle/10150/128469/browse?type=title",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/w8N/Sef/hJ/9Q/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/w8N/Sef/hJ/9Q/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/CabezaPrietaNWR_FieldWorkRoutes_2004.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:CabezaPrietaNWR_FieldWorkRoutes_2004",
     "dct_isPartOf_sm": [
         "Jim Malusa"

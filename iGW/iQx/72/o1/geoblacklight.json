@@ -5,7 +5,7 @@
     "dc_description_s": "This coverage depicts the road network on the Apache-Sitgreaves National Forest, Coconino National Forest, Coronado National Forest, Kaibab National Forest, Prescott National Forest, and the Tonto National Forest and is part of the USFS Southwestern Region Core Data Project. This project is designed to generate and maintain 15 vertically integrated resource data layers which are standardized across the Southwestern Region. These 15 layers are derived from a Master Arc coverage which maintains vertical integration.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/iGW/iQx/72/o1/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/iGW/iQx/72/o1/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_USFSRoads_2000.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:Arizona_USFSRoads_2000",
     "dct_isPartOf_sm": [
         "General"

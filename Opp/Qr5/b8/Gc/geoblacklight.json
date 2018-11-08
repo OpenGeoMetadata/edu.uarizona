@@ -5,7 +5,7 @@
     "dc_description_s": "This polygon shapefile displays the extents of the earth fissures study areas. A blank area on the map does not guarantee earth fissures are not present. However, blank areas within a study area boundary have been investigated, and no surface evidence of fissures was found as of the date of publication for that particular study area.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/Opp/Qr5/b8/Gc/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/Opp/Qr5/b8/Gc/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_AZGSEarthFissuresStudyAreas_2015.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:Arizona_AZGSEarthFissuresStudyAreas_2015",
     "dct_isPartOf_sm": [
         "Arizona Geological Survey",

@@ -5,7 +5,7 @@
     "dc_description_s": "This dataset depicts locations of mines throughout Arizona. This coverage is derived from the Bureau of Mines Minerals Availablity System (MAS) data set. Most of the information is from the Minerals Industry System Location (MILS) table. Mine types are grouped into Leach, Mineral Loc, Placer, Proc Plant, Prospect, Surf-Underg, Surface, Underground, Well, and Unknown. Names of mines and comodity are also defined.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/Rgn/jqW/BV/Aq/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/Rgn/jqW/BV/Aq/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_Mines_1993.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:Arizona_Mines_1993",
     "dct_isPartOf_sm": [
         "General"

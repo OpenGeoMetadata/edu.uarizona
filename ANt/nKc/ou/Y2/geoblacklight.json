@@ -5,7 +5,7 @@
     "dc_description_s": "This data set contain a black and white digital image taken in 1992 which covers most of Arizona. The image was constructed by combining multiple files for each quarter quadrangle into a single dataset. Gaps in data exist. Portions of Cochise, Pinal, Pima, Graham, Greenlee, Maricopa, Yuma, Coconino, and Apache county are not covered.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"https://geo.library.arizona.edu/geoserver/wcs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/ANt/nKc/ou/Y2/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"https://geo.library.arizona.edu/geoserver/wcs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/ANt/nKc/ou/Y2/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_USGSDOQQImagery_1992.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:Arizona_USGSDOQQImagery_1992",
     "dct_isPartOf_sm": [
         "Imagery"

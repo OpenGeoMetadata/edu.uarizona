@@ -5,7 +5,7 @@
     "dc_description_s": "The Arizona Department of Water Resources Geophysics/Surveying Unit has been collecting and processing Interferometric Synthetic Aperature Radar (InSAR) data since 2005 to monitor land subsidence across the State of Arizona. Statewide land subsidence features were identified using the ERS-1, ERS-2, Radarsat-2, EnviSat, ALOS-1, and Radarsat-2 Satellites and are updated to 2014. Updated May 29, 2014.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/pQ6/76v/r4/8g/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/pQ6/76v/r4/8g/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_GroundSubsidence_2014.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:Arizona_GroundSubsidence_2014",
     "dct_isPartOf_sm": [
         "General"

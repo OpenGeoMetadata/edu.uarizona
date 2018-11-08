@@ -5,7 +5,7 @@
     "dc_description_s": "Irrigation districts are municipal corporations with broad powers and purposes. Districts can purchase or acquire water rights, own or sell property and real estate, construct facilities, generate electricity, appropriate water for irrigation and power generation, tax and charge for services, appropriate money, and provide the district with water, electricity, and other public conveniences and necessities generally provided by municipalities.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/5uG/Skn/w6/x1/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/5uG/Skn/w6/x1/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_IrrigationDistricts_2014.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:Arizona_IrrigationDistricts_2014",
     "dct_isPartOf_sm": [
         "General"

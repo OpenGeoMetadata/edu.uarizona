@@ -5,7 +5,7 @@
     "dc_description_s": "Statewide coverage of 1910 American Indian Reservations. Boundaries that cross into the adjacent states are included. Population data is from the Annual Report of the Commissioner of Indian Affairs",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/xsp/Up7/Ka/9Q/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/xsp/Up7/Ka/9Q/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_AmerIndianReservations_1910.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:Arizona_AmerIndianReservations_1910",
     "dct_isPartOf_sm": [
         "Arizona American Indian Reservations"

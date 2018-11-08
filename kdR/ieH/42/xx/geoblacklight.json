@@ -5,7 +5,7 @@
     "dc_description_s": "The data set was computed using data from the National Climatic Data Center's United States Snow Climatology (TD-9641M) database (NCDC, 1999c). The original data and this element are measured to a tenth of an inch, with daily trace values designated as zero. The mean monthly values were computed by taking the 30-year mean of the sum of daily snowfall values for a given month. The mean annual value was computed by taking the 30-year mean of the yearly means. The yearly means were computed by averaging their 12 monthly mean values. Data was extracted for Arizon and 25 mile buffer.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/kdR/ieH/42/xx/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/kdR/ieH/42/xx/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_AnnualMeanTotalSnowfall_1961to1990.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:Arizona_AnnualMeanTotalSnowfall_1961to1990",
     "dct_isPartOf_sm": [
         "General"

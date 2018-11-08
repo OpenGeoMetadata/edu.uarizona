@@ -5,7 +5,7 @@
     "dc_description_s": "Statewide coverage of 1870 American Indian Reservations. Reservation boundaries cross into the adjacent states. For example, the Navajo Nation crosses into New Mexico. Population data is from the Annual Report of the Commissioner of Indian Affairs.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/Nb9/Rp5/Ma/NQ/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/Nb9/Rp5/Ma/NQ/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_AmerIndianReservations_1870.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:Arizona_AmerIndianReservations_1870",
     "dct_isPartOf_sm": [
         "Arizona American Indian Reservations"

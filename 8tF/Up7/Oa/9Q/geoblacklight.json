@@ -5,7 +5,7 @@
     "dc_description_s": "Statewide coverage of 1950 American Indian Reservations. Boundaries that cross into the adjacent states are included. Population data is from the Annual Report of the Commissioner of Indian Affairs; Bureau of the Census Report 1950, revised by Bureau of Indian Affairs; Bureau of Indian Affairs, Phoenix Area Office \"Withdrawal Program Summaries\" ending Dec. 31, 1955; and Tohono, Gila Bend and San Xavier from estimate by Papago Indian Agency (11/23/56).",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/8tF/Up7/Oa/9Q/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/8tF/Up7/Oa/9Q/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_AmerIndianReservations_1950.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:Arizona_AmerIndianReservations_1950",
     "dct_isPartOf_sm": [
         "Arizona American Indian Reservations"

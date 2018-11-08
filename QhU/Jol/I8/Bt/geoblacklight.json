@@ -5,7 +5,7 @@
     "dc_description_s": "Depiction of violent crime rates by county from 1990-1999. Violent crime refers to four offenses: murder and nonnegligent manslaughter, forcible rape, robbery, and aggravated assault. Rates are per 100,000 persons. Rates are calculated using the population estimate for the year of the reported crimes.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/QhU/Jol/I8/Bt/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geo.library.arizona.edu/geoserver/wfs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/QhU/Jol/I8/Bt/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_ViolentCrimes_1990to1999.zip?ticket=publicAccess\"}",
     "layer_id_s": "UniversityLibrary:Arizona_ViolentCrimes_1990to1999",
     "dct_isPartOf_sm": [
         "General"
