@@ -260,7 +260,7 @@
 							<onLine>
 								<CI_OnlineResource>
 									<linkage>
-										<gco:URL>http://dx.doi.org/10.2458/azu_geo_universityofarizona_05ftorthophotos_1996</gco:URL>
+										<gco:URL>http://dx.doi.org/10.2458/azu_geo_universityofarizona_6inchorthophotos_1996</gco:URL>
 									</linkage>
 								</CI_OnlineResource>
 							</onLine>
@@ -296,7 +296,7 @@
 					<processStep>
 						<LI_ProcessStep>
 							<description>
-								<gco:CharacterString>Dataset renamed from 1996Clip.tif to UniversityofArizona_05ftOrthophotos_1996.tif by Ben Hickson with the University of Arizona Library. Metadata fields corresponding the Open Geoportal Working Group Best Practices Guide (http://opengeoportal.org/working-groups/metadata/) were also updated.</gco:CharacterString>
+								<gco:CharacterString>Dataset renamed from 1996Clip.tif to UniversityofArizona_6inchOrthophotos_1996.tif by Ben Hickson with the University of Arizona Library. Metadata fields corresponding the Open Geoportal Working Group Best Practices Guide (http://opengeoportal.org/working-groups/metadata/) were also updated.</gco:CharacterString>
 							</description>
 							<dateTime/>
 						</LI_ProcessStep>
@@ -306,7 +306,7 @@
 					</source>
 				</LI_Lineage>
 			</lineage>
-		</DQ_DataQuality>
+		<Q_DataQuality>
 	</dataQualityInfo>
 	<referenceSystemInfo>
 		<MD_ReferenceSystem>
@@ -326,6 +326,6 @@
 		</MD_ReferenceSystem>
 	</referenceSystemInfo>
 	<dataSetURI>
-		<gco:CharacterString>http://dx.doi.org/10.2458/azu_geo_universityofarizona_05ftorthophotos_1996</gco:CharacterString>
+		<gco:CharacterString>http://dx.doi.org/10.2458/azu_geo_universityofarizona_6inchorthophotos_1996</gco:CharacterString>
 	</dataSetURI>
 </MD_Metadata>

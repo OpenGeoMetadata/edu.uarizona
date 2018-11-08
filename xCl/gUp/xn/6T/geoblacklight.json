@@ -1,12 +1,12 @@
 {
-    "layer_slug_s": "uarizona-universityofarizona-05ftorthophotos-2001",
-    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_universityofarizona_05ftorthophotos_2001",
+    "layer_slug_s": "uarizona-universityofarizona-6inchorthophotos-2001",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_universityofarizona_6inchorthophotos_2001",
     "dc_title_s": "Orthophotos (0.5' Resolution), University of Arizona, 2001",
     "dc_description_s": "Half-foot resolution raster orthophotos of the University of Arizona campus and surrounding area in 2001 from Grant Rd. (North) to Broadway Blvd. (South) and North 4th Ave. (West) to North Plumer Ave. (East).",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"https://geo.library.arizona.edu/geoserver/wcs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/xCl/gUp/xn/6T/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/UniversityofArizona_05ftOrthophotos_2001.zip?ticket=publicAccess\"}",
-    "layer_id_s": "UniversityLibrary:UniversityofArizona_05ftOrthophotos_2001",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"https://geo.library.arizona.edu/geoserver/wcs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/xCl/gUp/xn/6T/iso19139.xml\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/UniversityofArizona_6inchOrthophotos_2001.zip?ticket=publicAccess\"}",
+    "layer_id_s": "UniversityLibrary:UniversityofArizona_6inchOrthophotos_2001",
     "dct_isPartOf_sm": [
         "Imagery",
         "University of Arizona Orthophotography"
