@@ -1,0 +1,379 @@
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<language>
+		<LanguageCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#LanguageCode" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+	</language>
+	<hierarchyLevel>
+		<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+	</hierarchyLevel>
+	<contact>
+		<CI_ResponsibleParty>
+			<individualName>
+				<gco:CharacterString>Geospatial Data Manager</gco:CharacterString>
+			</individualName>
+			<organizationName>
+				<gco:CharacterString>The University of Arizona Libraries</gco:CharacterString>
+			</organizationName>
+			<contactInfo>
+				<address>
+					<CI_Address>
+						<deliveryPoint>
+							<gco:CharacterString>1510 E University Blvd</gco:CharacterString>
+						</deliveryPoint>
+						<city>
+							<gco:CharacterString>Tucson</gco:CharacterString>
+						</city>
+						<administrativeArea>
+							<gco:CharacterString>Arizona</gco:CharacterString>
+						</administrativeArea>
+						<postalCode>
+							<gco:CharacterString>85716</gco:CharacterString>
+						</postalCode>
+						<country>
+							<CountryCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CountryCode" codeListValue="US" codeSpace="ISOTC211/19115">US</CountryCode>
+						</country>
+						<electronicMailAddress>
+							<gco:CharacterString>LBRY-uageoportal@email.arizona.edu</gco:CharacterString>
+						</electronicMailAddress>
+					</CI_Address>
+				</address>
+			</contactInfo>
+			<role>
+				<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+			</role>
+		</CI_ResponsibleParty>
+	</contact>
+	<dateStamp>
+		<gco:Date>2018-11-09T18:08:29</gco:Date>
+	</dateStamp>
+	<metadataStandardName>
+		<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+	</metadataStandardName>
+	<metadataStandardVersion>
+		<gco:CharacterString>2007</gco:CharacterString>
+	</metadataStandardVersion>
+	<identificationInfo>
+		<MD_DataIdentification>
+			<citation>
+				<CI_Citation>
+					<title>
+						<gco:CharacterString>Voter Precincts, Arizona, 2018</gco:CharacterString>
+					</title>
+					<date>
+						<CI_Date>
+							<date>
+								<gco:Date>2018-09-25T00:00:00</gco:Date>
+							</date>
+							<dateType>
+								<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+							</dateType>
+						</CI_Date>
+					</date>
+					<citedResponsibleParty>
+						<CI_ResponsibleParty>
+							<organisationName>
+								<gco:CharacterString>University of Arizona. Library</gco:CharacterString>
+							</organisationName>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</citedResponsibleParty>
+					<citedResponsibleParty>
+						<CI_ResponsibleParty>
+							<organisationName>
+								<gco:CharacterString>University of Arizona Libraries</gco:CharacterString>
+							</organisationName>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</citedResponsibleParty>
+					<presentationForm>
+						<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+					</presentationForm>
+				</CI_Citation>
+			</citation>
+			<resourceConstraints>
+				<MD_LegalConstraints>
+					<otherConstraints>
+						<gco:CharacterString>Public    |    Not to be used as a legal description</gco:CharacterString>
+					</otherConstraints>
+				</MD_LegalConstraints>
+			</resourceConstraints>
+			<language>
+				<LanguageCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#LanguageCode" codeListValue="eng" codeSpace="ISOTC211/19115">eng</LanguageCode>
+			</language>
+			<abstract>
+				<gco:CharacterString>This dataset is statewide coverage based on a compilation of County voter precinct layers obtained from a variety of sources. Detailed by county here: , Apache County (Ariz.): obtained from county on 8/27/18 , Cochise County (Ariz.): obtained from county on 8/27/18, Coconino County (Ariz.): obtained from county on 8/28/18, Gila County (Ariz.): obtained from county on 8/28/18, Graham County (Ariz.): obtained from county on 8/28/18, Greenlee County (Ariz.): obtained via REST service, ArcGIS Online on 8/28/18, La Paz County (Ariz.): U.S. Census Data (2010), Maricopa County (Ariz.): obtained via REST service, ArcGIS Online on 8/28/18, Mojave County (Ariz.): obtained from county on 8/28/18, Navajo County (Ariz.): U.S. Census Data (2010), Pima County (Ariz.): obtained from county 8/28/18, Pinal County (Ariz.): obtained via REST service, ArcGIS Online 8/28/18, Santa Cruz County (Ariz.): obtained from county on 8/28/18 , Yavapai County (Ariz.): obtained from county on 8/28/18, Yuma County (Ariz.): obtained via REST service, ArcGIS Online on 8/28/18, </gco:CharacterString>
+			</abstract>
+			<status>
+				<MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+			</status>
+			<resourceMaintenance>
+				<MD_MaintenanceInformation>
+					<maintenanceAndUpdateFrequency>
+						<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned" codeSpace="ISOTC211/19115">notPlanned</MD_MaintenanceFrequencyCode>
+					</maintenanceAndUpdateFrequency>
+				</MD_MaintenanceInformation>
+			</resourceMaintenance>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>boundaries </gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>LCSH</gco:CharacterString>
+							</title>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>arizona</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>voting</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>civic</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>society</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>political</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>None</gco:CharacterString>
+							</title>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>Arizona</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>GEOnet</gco:CharacterString>
+							</title>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>Northern Hemisphere</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>Western Hemisphere</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>North America</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>LCSH</gco:CharacterString>
+							</title>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<topicCategory>
+				<MD_TopicCategoryCode>boundaries</MD_TopicCategoryCode>
+			</topicCategory>
+			<topicCategory>
+				<MD_TopicCategoryCode>location</MD_TopicCategoryCode>
+			</topicCategory>
+			<topicCategory>
+				<MD_TopicCategoryCode>society</MD_TopicCategoryCode>
+			</topicCategory>
+			<spatialRepresentationType>
+				<MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+			</spatialRepresentationType>
+			<extent>
+				<EX_Extent>
+					<geographicElement>
+						<EX_GeographicBoundingBox>
+							<westBoundLongitude>
+								<ns0:Decimal xmlns:ns0="gco">-114.81357631548215</ns0:Decimal>
+							</westBoundLongitude>
+							<eastBoundLongitude>
+								<ns1:Decimal xmlns:ns1="gco">-109.04522304963022</ns1:Decimal>
+							</eastBoundLongitude>
+							<southBoundLatitude>
+								<ns2:Decimal xmlns:ns2="gco">31.33217700032264</ns2:Decimal>
+							</southBoundLatitude>
+							<northBoundLatitude>
+								<ns3:Decimal xmlns:ns3="gco">37.00425999999957</ns3:Decimal>
+							</northBoundLatitude>
+						</EX_GeographicBoundingBox>
+					</geographicElement>
+				</EX_Extent>
+			</extent>
+			<extent>
+				<EX_Extent>
+					<temporalElement>
+						<EX_TemporalExtent>
+							<extent>
+								<gml:TimeInstant>
+									<gml:timePosition>2018-09-25T00:00:00</gml:timePosition>
+								</gml:TimeInstant>
+							</extent>
+						</EX_TemporalExtent>
+					</temporalElement>
+				</EX_Extent>
+			</extent>
+		</MD_DataIdentification>
+	</identificationInfo>
+	<spatialRepresentationInfo>
+		<MD_VectorSpatialRepresentation>
+			<geometricObjects>
+				<MD_GeometricObjects>
+					<geometricObjectType>
+						<MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="complex" codeSpace="ISOTC211/19115">complex</MD_GeometricObjectTypeCode>
+					</geometricObjectType>
+					<geometricObjectCount>
+						<gco:Integer>1512</gco:Integer>
+					</geometricObjectCount>
+				</MD_GeometricObjects>
+			</geometricObjects>
+		</MD_VectorSpatialRepresentation>
+	</spatialRepresentationInfo>
+	<distributionInfo>
+		<MD_Distribution>
+			<distributor>
+				<MD_Distributor>
+					<distributorContact>
+						<CI_ResponsibleParty>
+							<individualName>
+								<gco:CharacterString>Geospatial Data Manager</gco:CharacterString>
+							</individualName>
+							<organizationName>
+								<gco:CharacterString>The University of Arizona Libraries</gco:CharacterString>
+							</organizationName>
+							<contactInfo>
+								<address>
+									<CI_Address>
+										<deliveryPoint>
+											<gco:CharacterString>1510 E University Blvd</gco:CharacterString>
+										</deliveryPoint>
+										<city>
+											<gco:CharacterString>Tucson</gco:CharacterString>
+										</city>
+										<administrativeArea>
+											<gco:CharacterString>Arizona</gco:CharacterString>
+										</administrativeArea>
+										<postalCode>
+											<gco:CharacterString>85716</gco:CharacterString>
+										</postalCode>
+										<country>
+											<CountryCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CountryCode" codeListValue="US" codeSpace="ISOTC211/19115">US</CountryCode>
+										</country>
+										<electronicMailAddress>
+											<gco:CharacterString>LBRY-uageoportal@email.arizona.edu</gco:CharacterString>
+										</electronicMailAddress>
+									</CI_Address>
+								</address>
+							</contactInfo>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</distributorContact>
+					<distributorFormat>
+						<MD_Format>
+							<name>
+								<gco:CharacterString>GeoPackage</gco:CharacterString>
+							</name>
+							<version>
+								<gco:CharacterString>Unknown</gco:CharacterString>
+							</version>
+						</MD_Format>
+					</distributorFormat>
+					<distributorTransferOptions>
+						<MD_DigitalTransferOptions>
+							<onLine>
+								<CI_OnlineResource>
+									<linkage>
+										<gco:URL>http://dx.doi.org/10.2458/azu_geo_arizona_voterprecincts_2018</gco:URL>
+									</linkage>
+								</CI_OnlineResource>
+							</onLine>
+						</MD_DigitalTransferOptions>
+					</distributorTransferOptions>
+				</MD_Distributor>
+			</distributor>
+			<transferOptions>
+				<MD_DigitalTransferOptions/>
+			</transferOptions>
+		</MD_Distribution>
+	</distributionInfo>
+	<dataQualityInfo>
+		<DQ_DataQuality>
+			<scope>
+				<DQ_Scope>
+					<level>
+						<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+					</level>
+				</DQ_Scope>
+			</scope>
+			<lineage>
+				<LI_Lineage>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>Metadata for this dataset has been updated or modified as part of an ingest into The University of Arizona Libraries geospatial data repository. As part of this process the dataset was renamed from Arizona_VoterPrecincts_2018 to Arizona_VoterPrecincts_2018.</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2018-11-09T18:08:29</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+				</LI_Lineage>
+			</lineage>
+		</DQ_DataQuality>
+	</dataQualityInfo>
+	<referenceSystemInfo>
+		<MD_ReferenceSystem>
+			<referenceSystemIdentifier>
+				<RS_Identifier/>
+				<code>
+					<gco:CharacterString>102003</gco:CharacterString>
+				</code>
+				<codeSpace>
+					<gco:CharacterString>EPSG</gco:CharacterString>
+				</codeSpace>
+				<version>
+					<gco:CharacterString>9.2</gco:CharacterString>
+				</version>
+			</referenceSystemIdentifier>
+		</MD_ReferenceSystem>
+	</referenceSystemInfo>
+	<dataSetURI>
+		<gco:CharacterString>http://dx.doi.org/10.2458/azu_geo_arizona_voterprecincts_2018</gco:CharacterString>
+	</dataSetURI>
+</MD_Metadata>
