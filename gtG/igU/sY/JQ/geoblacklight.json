@@ -5,7 +5,7 @@
     "dc_description_s": "This data set originated as a Digital Raster Graphic (DRG) produced from a scanned USGS topographic map. The DRG included the collar information and was georeferenced to the UTM grid. The current data set has been modified to remove the collar information and has been georeferenced to UTM Zone 12. The decollared maps have been mosaiced into a seamless raster pyramid using the Gdal (1.9.2) software utility to be severed in GeoServer.",
     "dc_rights_s": "public",
     "dct_provenance_s": "UArizona",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_24kScaleTopoDecollared_1970to1995.zip\", \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"https://geo.library.arizona.edu/geoserver/wcs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/gtG/igU/sY/JQ/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/Arizona_24kScaleTopoDecollared_1970to1995.tif?ticket=publicAccess\", \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"https://geo.library.arizona.edu/geoserver/wcs\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/gtG/igU/sY/JQ/iso19139.xml\"}",
     "layer_id_s": "UniversityLibrary:Arizona_24kScaleTopoDecollared_1970to1995",
     "dct_isPartOf_sm": [
         "..",
