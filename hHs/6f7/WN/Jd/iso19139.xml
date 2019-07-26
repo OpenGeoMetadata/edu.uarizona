@@ -1,0 +1,397 @@
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<language>
+		<LanguageCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#LanguageCode" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+	</language>
+	<hierarchyLevel>
+		<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+	</hierarchyLevel>
+	<contact>
+		<CI_ResponsibleParty>
+			<individualName>
+				<gco:CharacterString>Geospatial Data Manager</gco:CharacterString>
+			</individualName>
+			<organizationName>
+				<gco:CharacterString>The University of Arizona Libraries</gco:CharacterString>
+			</organizationName>
+			<contactInfo>
+				<address>
+					<CI_Address>
+						<deliveryPoint>
+							<gco:CharacterString>1510 E University Blvd</gco:CharacterString>
+						</deliveryPoint>
+						<city>
+							<gco:CharacterString>Tucson</gco:CharacterString>
+						</city>
+						<administrativeArea>
+							<gco:CharacterString>Arizona</gco:CharacterString>
+						</administrativeArea>
+						<postalCode>
+							<gco:CharacterString>85716</gco:CharacterString>
+						</postalCode>
+						<country>
+							<CountryCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CountryCode" codeListValue="US" codeSpace="ISOTC211/19115">US</CountryCode>
+						</country>
+						<electronicMailAddress>
+							<gco:CharacterString>LBRY-uageoportal@email.arizona.edu</gco:CharacterString>
+						</electronicMailAddress>
+					</CI_Address>
+				</address>
+			</contactInfo>
+			<role>
+				<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+			</role>
+		</CI_ResponsibleParty>
+	</contact>
+	<dateStamp>
+		<gco:Date>2019-05-03T11:54:02</gco:Date>
+	</dateStamp>
+	<metadataStandardName>
+		<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+	</metadataStandardName>
+	<metadataStandardVersion>
+		<gco:CharacterString>2007</gco:CharacterString>
+	</metadataStandardVersion>
+	<identificationInfo>
+		<MD_DataIdentification>
+			<citation>
+				<CI_Citation>
+					<title>
+						<gco:CharacterString>Orthoimage Mosaic (1.5 cm/pixel resolution), McCartys lava flow-field, Zuni–Bandera volcanic field, El Malpais National Monument, New Mexico, USA, 2015</gco:CharacterString>
+					</title>
+					<date>
+						<CI_Date>
+							<date>
+								<gco:Date>2019-03-20T00:00:00</gco:Date>
+							</date>
+							<dateType>
+								<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+							</dateType>
+						</CI_Date>
+					</date>
+					<citedResponsibleParty>
+						<CI_ResponsibleParty>
+							<organisationName>
+								<gco:CharacterString>University of Arizona. Department of Planetary Sciences. Lunar and Planetary Laboratory</gco:CharacterString>
+							</organisationName>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</citedResponsibleParty>
+					<citedResponsibleParty>
+						<CI_ResponsibleParty>
+							<organisationName>
+								<gco:CharacterString>Stephen P. Scheidt and Christopher W. Hamilton</gco:CharacterString>
+							</organisationName>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</citedResponsibleParty>
+					<presentationForm>
+						<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+					</presentationForm>
+				</CI_Citation>
+			</citation>
+			<resourceConstraints>
+				<MD_LegalConstraints>
+					<otherConstraints>
+						<gco:CharacterString>Public. Unrestricted Access Online    |    For educational non-commercial use only. These data are being made freely available by the authors under the condition that the source of the data sets be acknowledged as follows: 
+Scheidt, S.P., and C.W. Hamilton (2019) Kite-derived orthoimage mosaic and digital terrain model of the southern portion of the McCartys lava flow-field, New Mexico, USA: Data acquired 6 February to 1 April, 2015. University of Arizona Spatial Data Explorer, http://dx.doi.org/10.2458_McCartys_2015_Ortho</gco:CharacterString>
+					</otherConstraints>
+				</MD_LegalConstraints>
+			</resourceConstraints>
+			<language>
+				<LanguageCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#LanguageCode" codeListValue="eng" codeSpace="ISOTC211/19115">eng</LanguageCode>
+			</language>
+			<abstract>
+				<gco:CharacterString>Using a low-altitude kite-based imaging system, 9,220 aerial images were acquired over the southern portion of the McCartys lava flow-field. The images were captured in JPEG format using a Cannon Powershot S110 digital camera with a 12.1 megapixel high-sensitivity CMOS sensor and a 23.4 mm focal length (35 mm equivalent) lens with a focus set to infinity, ISO set to 320, and shutter speed at 1/1000. Images were geocoded using a ground control points (GCPs) network. Highly visible targets set on the ground prior to image acquisition were precisely geolocated using a Trimble R10 Differential Global Positioning System (DGPS). The camera was flown at altitudes ranging from 50 to 100 m above the ground surface, and images were acquired with incidence angles varying up to 10 degrees from nadir. Images were processed into geodetically-controlled digital terrain models (DTMs) and orthomosaics using the commercial software package Pix4Dmapper Pro version 2.0.81. In Pix4Dmapper Pro, data products were geocoded by attributing the 3D coordinates of GCPs to corresponding pixels in a subset of 2D images. Coordinate information for the GCPs utilized DGPS measurements, which were post-processed using Trimble Business Center version 3.81. To estimate the localization accuracy within the point cloud, we used a network of N = 18 GCPs, which had a mean and standard deviation (at +/-1?) in the x, y, and z directions (i.e., latitude, longitude, and elevation) of 1.4 cm +/- 7.9 cm, –1.5 cm +/- 6.3 cm, and –4.2 cm +/- 13.9 cm, respectively. The corresponding root mean square errors for the fit were x = 8.0 cm, y = 6.5 cm, and z = 14.5 cm. The resulting product had a projection error (i.e., a measure of fit between projects) of 1.0 +/- 0.5 cm, which is less than one pixel. Both the DTM and orthomosaic have a horizontal resolution of 1.47 cm/pixel and relative to the GCPs (N = 18), the mean error in x (Longitude) and y (Latitude) is 1.4 cm and –1.5, respectively. In the DTM, the mean error in z (Elevation) is –4.2 cm.</gco:CharacterString>
+			</abstract>
+			<status>
+				<MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+			</status>
+			<resourceMaintenance>
+				<MD_MaintenanceInformation>
+					<maintenanceAndUpdateFrequency>
+						<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned" codeSpace="ISOTC211/19115">notPlanned</MD_MaintenanceFrequencyCode>
+					</maintenanceAndUpdateFrequency>
+				</MD_MaintenanceInformation>
+			</resourceMaintenance>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>Volcanoes--New Mexico--Albuquerque Basin. Aerial photogrammetry.</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>LCSH</gco:CharacterString>
+							</title>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>Lava-rise plateau</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>inflation</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>pits</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>McCartys flow-field</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>planetary analog</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>Mars</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>None</gco:CharacterString>
+							</title>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>El Malpais National Monument</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>New Mexico</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>Cibola County</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>GEOnet</gco:CharacterString>
+							</title>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>El Malpais National Monument (N.M.)</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>LCSH</gco:CharacterString>
+							</title>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<topicCategory>
+				<MD_TopicCategoryCode>imageryBaseMapsEarthCover</MD_TopicCategoryCode>
+			</topicCategory>
+			<topicCategory>
+				<MD_TopicCategoryCode>geoscientificInformation</MD_TopicCategoryCode>
+			</topicCategory>
+			<spatialRepresentationType>
+				<MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="grid" codeSpace="ISOTC211/19115">grid</MD_SpatialRepresentationTypeCode>
+			</spatialRepresentationType>
+			<extent>
+				<EX_Extent>
+					<geographicElement>
+						<EX_GeographicBoundingBox>
+							<westBoundLongitude>
+								<ns0:Decimal xmlns:ns0="gco">-107.989434470319</ns0:Decimal>
+							</westBoundLongitude>
+							<eastBoundLongitude>
+								<ns1:Decimal xmlns:ns1="gco">-107.98146874594192</ns1:Decimal>
+							</eastBoundLongitude>
+							<southBoundLatitude>
+								<ns2:Decimal xmlns:ns2="gco">34.73678256646781</ns2:Decimal>
+							</southBoundLatitude>
+							<northBoundLatitude>
+								<ns3:Decimal xmlns:ns3="gco">34.74016655863427</ns3:Decimal>
+							</northBoundLatitude>
+						</EX_GeographicBoundingBox>
+					</geographicElement>
+				</EX_Extent>
+			</extent>
+			<extent>
+				<EX_Extent>
+					<temporalElement>
+						<EX_TemporalExtent>
+							<extent>
+								<gml:TimePeriod>
+									<gml:beginPosition>2015-02-06T00:00:00</gml:beginPosition>
+									<gml:endPosition>2015-04-01T00:00:00</gml:endPosition>
+								</gml:TimePeriod>
+							</extent>
+						</EX_TemporalExtent>
+					</temporalElement>
+				</EX_Extent>
+			</extent>
+		</MD_DataIdentification>
+	</identificationInfo>
+	<spatialRepresentationInfo>
+		<MD_Georectified>
+			<numberOfDimensions>
+				<gco:Integer>2</gco:Integer>
+			</numberOfDimensions>
+			<axisDimensionProperties>
+				<MD_Dimension>
+					<dimensionName>
+						<MD_DimensionNameTypeCode>row</MD_DimensionNameTypeCode>
+					</dimensionName>
+				</MD_Dimension>
+				<MD_Dimension>
+					<gco:Integer>1</gco:Integer>
+				</MD_Dimension>
+			</axisDimensionProperties>
+			<axisDimensionProperties>
+				<MD_Dimension>
+					<dimensionName>
+						<MD_DimensionNameTypeCode>column</MD_DimensionNameTypeCode>
+					</dimensionName>
+				</MD_Dimension>
+				<MD_Dimension>
+					<gco:Integer>2</gco:Integer>
+				</MD_Dimension>
+			</axisDimensionProperties>
+			<cellGeometry>
+				<MD_CellGeometryCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CellGeometryCode" codeListValue="area" codeSpace="ISOTC211/19115">area</MD_CellGeometryCode>
+			</cellGeometry>
+		</MD_Georectified>
+	</spatialRepresentationInfo>
+	<distributionInfo>
+		<MD_Distribution>
+			<distributor>
+				<MD_Distributor>
+					<distributorContact>
+						<CI_ResponsibleParty>
+							<individualName>
+								<gco:CharacterString>Geospatial Data Manager</gco:CharacterString>
+							</individualName>
+							<organizationName>
+								<gco:CharacterString>The University of Arizona Libraries</gco:CharacterString>
+							</organizationName>
+							<contactInfo>
+								<address>
+									<CI_Address>
+										<deliveryPoint>
+											<gco:CharacterString>1510 E University Blvd</gco:CharacterString>
+										</deliveryPoint>
+										<city>
+											<gco:CharacterString>Tucson</gco:CharacterString>
+										</city>
+										<administrativeArea>
+											<gco:CharacterString>Arizona</gco:CharacterString>
+										</administrativeArea>
+										<postalCode>
+											<gco:CharacterString>85716</gco:CharacterString>
+										</postalCode>
+										<country>
+											<CountryCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CountryCode" codeListValue="US" codeSpace="ISOTC211/19115">US</CountryCode>
+										</country>
+										<electronicMailAddress>
+											<gco:CharacterString>LBRY-uageoportal@email.arizona.edu</gco:CharacterString>
+										</electronicMailAddress>
+									</CI_Address>
+								</address>
+							</contactInfo>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</distributorContact>
+					<distributorFormat>
+						<MD_Format>
+							<name>
+								<gco:CharacterString>GEOTiff</gco:CharacterString>
+							</name>
+							<version>
+								<gco:CharacterString>Unknown</gco:CharacterString>
+							</version>
+						</MD_Format>
+					</distributorFormat>
+					<distributorTransferOptions>
+						<MD_DigitalTransferOptions>
+							<onLine>
+								<CI_OnlineResource>
+									<linkage>
+										<gco:URL>http://dx.doi.org/10.2458/azu_geo_mccartys_2015_ortho</gco:URL>
+									</linkage>
+								</CI_OnlineResource>
+							</onLine>
+						</MD_DigitalTransferOptions>
+					</distributorTransferOptions>
+				</MD_Distributor>
+			</distributor>
+			<transferOptions>
+				<MD_DigitalTransferOptions/>
+			</transferOptions>
+		</MD_Distribution>
+	</distributionInfo>
+	<dataQualityInfo>
+		<DQ_DataQuality>
+			<scope>
+				<DQ_Scope>
+					<level>
+						<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+					</level>
+				</DQ_Scope>
+			</scope>
+			<lineage>
+				<LI_Lineage>
+					<processStep>
+						<LI_ProcessStep>
+							<description>
+								<gco:CharacterString>Metadata for this dataset has been updated or modified as part of an ingest into The University of Arizona Libraries geospatial data repository. As part of this process the dataset was renamed from McCartys_Orthoimage_2015 to McCartysLavaFlowField_15cmOrtho_2015</gco:CharacterString>
+							</description>
+							<dateTime>
+								<gco:DateTime>2019-05-03T11:54:02</gco:DateTime>
+							</dateTime>
+						</LI_ProcessStep>
+					</processStep>
+				</LI_Lineage>
+			</lineage>
+		</DQ_DataQuality>
+	</dataQualityInfo>
+	<referenceSystemInfo>
+		<MD_ReferenceSystem>
+			<referenceSystemIdentifier>
+				<RS_Identifier/>
+				<code>
+					<gco:CharacterString>32613</gco:CharacterString>
+				</code>
+				<codeSpace>
+					<gco:CharacterString>EPSG</gco:CharacterString>
+				</codeSpace>
+				<version>
+					<gco:CharacterString>9.2</gco:CharacterString>
+				</version>
+			</referenceSystemIdentifier>
+		</MD_ReferenceSystem>
+	</referenceSystemInfo>
+	<dataSetURI>
+		<gco:CharacterString>http://dx.doi.org/10.2458/azu_geo_mccartys_2015_ortho</gco:CharacterString>
+	</dataSetURI>
+</MD_Metadata>

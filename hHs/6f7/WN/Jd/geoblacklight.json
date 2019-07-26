@@ -1,0 +1,45 @@
+{
+    "layer_slug_s": "uarizona-mccartyslavaflowfield-15cmortho-2015",
+    "dc_identifier_s": "http://dx.doi.org/10.2458/azu_geo_mccartys_2015_ortho",
+    "dc_title_s": "Orthoimage Mosaic (1.5 cm/pixel resolution), McCartys lava flow-field, Zuni-Bandera volcanic field, El Malpais National Monument, New Mexico, USA, 2015",
+    "dc_description_s": "Using a low-altitude kite-based imaging system, 9,220 aerial images were acquired over the southern portion of the McCartys lava flow-field. The images were captured in JPEG format using a Cannon Powershot S110 digital camera with a 12.1 megapixel high-sensitivity CMOS sensor and a 23.4 mm focal length (35 mm equivalent) lens with a focus set to infinity, ISO set to 320, and shutter speed at 1/1000. Images were geocoded using a ground control points (GCPs) network. Highly visible targets set on the ground prior to image acquisition were precisely geolocated using a Trimble R10 Differential Global Positioning System (DGPS). The camera was flown at altitudes ranging from 50 to 100 m above the ground surface, and images were acquired with incidence angles varying up to 10 degrees from nadir. Images were processed into geodetically-controlled digital terrain models (DTMs) and orthomosaics using the commercial software package Pix4Dmapper Pro version 2.0.81. In Pix4Dmapper Pro, data products were geocoded by attributing the 3D coordinates of GCPs to corresponding pixels in a subset of 2D images. Coordinate information for the GCPs utilized DGPS measurements, which were post-processed using Trimble Business Center version 3.81. To estimate the localization accuracy within the point cloud, we used a network of N = 18 GCPs, which had a mean and standard deviation (at +/-1?) in the x, y, and z directions (i.e., latitude, longitude, and elevation) of 1.4 cm +/- 7.9 cm, 1.5 cm +/- 6.3 cm, and -4.2 cm +/- 13.9 cm, respectively. The corresponding root mean square errors for the fit were x = 8.0 cm, y = 6.5 cm, and z = 14.5 cm. The resulting product had a projection error (i.e., a measure of fit between projects) of 1.0 +/- 0.5 cm, which is less than one pixel. Both the DTM and orthomosaic have a horizontal resolution of 1.47 cm/pixel and relative to the GCPs (N = 18), the mean error in x (Longitude) and y (Latitude) is 1.4 cm and -1.5, respectively. In the DTM, the mean error in z (Elevation) is -4.2 cm.",
+    "dc_rights_s": "public",
+    "dct_provenance_s": "UArizona",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.library.arizona.edu/geoserver/wms\", \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"https://geo.library.arizona.edu/geoserver/wcs\", \"http://schema.org/downloadUrl\": \"http://sequoia.library.arizona.edu/geospatial/public/single_layer_datasets/McCartysLavaFlowField_15cmOrtho_2015.zip?ticket=publicAccess\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uarizona/master/hHs/6f7/WN/Jd/iso19139.xml\"}",
+    "layer_id_s": "UniversityLibrary:McCartysLavaFlowField_15cmOrtho_2015",
+    "dct_isPartOf_sm": [
+        "..",
+        "..",
+        "GeoDataIngest",
+        "RenamedDatasets"
+    ],
+    "layer_geom_type_s": "Raster",
+    "layer_modified_dt": "2019-05-03T11:54:02Z",
+    "dc_format_s": "GEOTiff",
+    "dc_language_s": "eng",
+    "dc_type_s": "Image",
+    "dc_publisher_s": "University of Arizona. Department of Planetary Sciences. Lunar and Planetary Laboratory",
+    "dc_creator_sm": "Stephen P. Scheidt and Christopher W. Hamilton",
+    "dc_subject_sm": [
+        "Lava-rise plateau",
+        "Volcanoes--New Mexico--Albuquerque Basin. Aerial photogrammetry.",
+        "McCartys flow-field",
+        "inflation",
+        "pits",
+        "Mars",
+        "planetary analog",
+        "Imagery/Base Maps/Earth Cover",
+        "Geoscientific Information"
+    ],
+    "dct_issued_s": "2019-03-20T00:00:00",
+    "dct_temporal_sm": "2015",
+    "dct_spatial_sm": [
+        "El Malpais National Monument",
+        "New Mexico",
+        "El Malpais National Monument (N.M.)",
+        "Cibola County"
+    ],
+    "solr_geom": "ENVELOPE(-107.989434470319, -107.98146874594192, 34.74016655863427, 34.73678256646781)",
+    "solr_year_i": "2015",
+    "geoblacklight_version": "1.0"
+}
